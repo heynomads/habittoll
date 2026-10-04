@@ -181,6 +181,7 @@ h2 {
   letter-spacing: -.012em;
 }
 .brand .mark { flex: none; }
+.masthead-end { display: flex; align-items: center; gap: clamp(16px, 3vw, 32px); }
 .masthead-nav a {
   display: inline-block;
   padding: 10px 2px;
@@ -190,6 +191,22 @@ h2 {
   text-decoration: none;
 }
 .masthead-nav a:hover { color: var(--ink); }
+
+/* EN · DE · ES, set like the ticket's mono label; the current language in ink. */
+.lang-switch { display: flex; align-items: center; }
+.lang-switch a {
+  display: inline-block;
+  min-width: 30px;
+  padding: 12px 4px;
+  text-align: center;
+  font: 600 .6875rem/1 var(--mono);
+  letter-spacing: .14em;
+  color: var(--ink-muted);
+  text-decoration: none;
+}
+.lang-switch a + a { border-left: 1px solid var(--rule); }
+.lang-switch a:hover { color: var(--ink); }
+.lang-switch a[aria-current] { color: var(--ink); }
 
 .colophon { padding-bottom: 48px; }
 .tear {
@@ -233,7 +250,7 @@ h2 {
   min-height: min(760px, calc(100svh - 120px));
   padding-block: clamp(24px, 4vh, 56px) clamp(48px, 7vh, 96px);
 }
-.hero .lede { max-width: 21ch; }
+.hero .lede { max-width: 22ch; text-wrap: balance; }
 .hero-store, .finale-store { display: flex; flex-direction: column; align-items: flex-start; gap: 14px; margin-top: clamp(2.25rem, 4vw, 3.25rem); }
 .hero-object { margin: 0; justify-self: center; width: min(100%, 540px); }
 .hero-object .lift {

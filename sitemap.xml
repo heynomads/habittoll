@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://habittoll.com/</loc></url>
+  <url><loc>https://habittoll.com/de/</loc></url>
+  <url><loc>https://habittoll.com/es/</loc></url>
   <url><loc>https://habittoll.com/help/</loc></url>
+  <url><loc>https://habittoll.com/de/hilfe/</loc></url>
+  <url><loc>https://habittoll.com/es/ayuda/</loc></url>
   <url><loc>https://habittoll.com/privacy/</loc></url>
+  <url><loc>https://habittoll.com/de/datenschutz/</loc></url>
+  <url><loc>https://habittoll.com/es/privacidad/</loc></url>
   <url><loc>https://habittoll.com/terms/</loc></url>
+  <url><loc>https://habittoll.com/de/nutzungsbedingungen/</loc></url>
+  <url><loc>https://habittoll.com/es/condiciones/</loc></url>
   <url><loc>https://habittoll.com/imprint/</loc></url>
+  <url><loc>https://habittoll.com/de/impressum/</loc></url>
+  <url><loc>https://habittoll.com/es/aviso-legal/</loc></url>
 </urlset>
