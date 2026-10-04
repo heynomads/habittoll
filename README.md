@@ -1,3 +1,5 @@
 # HabitToll
 
-Privacy policy, terms of use and imprint for the HabitToll iPhone app by Comads OÜ, published at https://heynomads.github.io/habittoll/.
+The website of the HabitToll iPhone app by Comads OÜ: https://habittoll.com (home, help, privacy policy, terms of use, imprint).
+
+This repository holds only the generated site, served by GitHub Pages.

@@ -1,60 +1,268 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
-<title>HabitToll</title>
-<meta name="description" content="HabitToll puts a price on the apps you want to open less.">
-<link rel="icon" href="data:,">
-<style>
-:root{--paper:#F1ECE2;--ink:#161513;--muted:#5E5A53;--rule:#D8CFBF;--red:#D6422B}
-@media (prefers-color-scheme:dark){:root{--paper:#161513;--ink:#EDE7DC;--muted:#A39D93;--rule:#36322C;--red:#E5573F}}
-*{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
-body{margin:0;background:var(--paper);color:var(--ink);
-  font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  overflow-wrap:break-word}
-.wrap{max-width:40rem;margin:0 auto;padding:0 20px}
-.top{padding-top:28px}
-.mark{font-family:ui-serif,"New York",Georgia,"Times New Roman",serif;font-size:21px;color:var(--ink);text-decoration:none}
-.dot{color:var(--red)}
-h1,h2,h3{font-family:ui-serif,"New York",Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.01em}
-h1{font-size:2.3rem;line-height:1.15;margin:44px 0 6px}
-h2{font-size:1.4rem;line-height:1.3;margin:40px 0 10px;padding-top:26px;border-top:1px solid var(--rule)}
-h1+p em{color:var(--muted);font-style:normal;font-size:15px}
-p{margin:0 0 14px}
-ul{margin:0 0 14px;padding-left:1.25em}
-li{margin:5px 0}
-li>ul{margin:6px 0 0}
-strong{font-weight:600}
-a{color:inherit;text-decoration-color:var(--muted);text-decoration-thickness:1px;text-underline-offset:3px}
-footer{margin-top:64px;padding:22px 0 44px;border-top:1px solid var(--rule);font-size:15px;color:var(--muted)}
-footer a{color:var(--muted)}
-footer p{margin:0 0 6px}
-.home h1{font-size:3.2rem;margin-top:72px}
-.lede{font-family:ui-serif,"New York",Georgia,"Times New Roman",serif;font-size:1.5rem;line-height:1.3;margin:0 0 22px}
-.links{list-style:none;padding:0;margin:30px 0}
-.links li{border-top:1px solid var(--rule);margin:0}
-.links li:last-child{border-bottom:1px solid var(--rule)}
-.links a{display:block;padding:14px 0;text-decoration:none;font-size:18px}
-.links a::after{content:"\2192";float:right;color:var(--muted)}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>HabitToll — Put a price on your scroll</title>
+<meta name="description" content="HabitToll makes the apps that eat your time ask first: worth it? Walk away in one tap, or buy 10 minutes at the price you chose. For iPhone.">
+<link rel="canonical" href="https://habittoll.com/">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#F1ECE2">
+<meta name="apple-itunes-app" content="app-id=6816464637">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="HabitToll">
+<meta property="og:title" content="HabitToll — Put a price on your scroll">
+<meta property="og:description" content="HabitToll makes the apps that eat your time ask first: worth it? Walk away in one tap, or buy 10 minutes at the price you chose. For iPhone.">
+<meta property="og:url" content="https://habittoll.com/">
+<meta property="og:image" content="https://habittoll.com/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.png" type="image/png" sizes="64x64">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/assets/paper.png" as="image">
+<link rel="stylesheet" href="/assets/site.css?v=29d46d61">
+<script>document.documentElement.classList.replace('no-js','js')</script>
 </head>
-<body>
-<main class="wrap home">
-<h1>HabitToll<span class="dot">.</span></h1>
-<p class="lede">Put a price on your scroll.</p>
-<p>An iPhone app by Comads OÜ. Blocking is free. Unlocks cost what you set.</p>
-<ul class="links">
-<li><a href="privacy/">Privacy Policy</a></li>
-<li><a href="terms/">Terms of Use</a></li>
-<li><a href="imprint/">Imprint</a></li>
-</ul>
-<p>Questions or problems? Write to <a href="mailto:help@elynd.app">help@elynd.app</a>.</p>
+<body class="home">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead wrap">
+  <a class="brand" href="/"><svg class="mark" viewBox="0 0 100 100" width="26" height="26" aria-hidden="true"><path fill="#D6422B" fill-rule="evenodd" d="M50 50L50 0A50 50 0 0 1 93.3 25ZM54.35 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><path fill="#161513" d="M82.64 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM82.64 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM54.35 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><circle cx="50" cy="50" r="7.5" fill="#161513"/></svg><span>HabitToll</span></a>
+  <nav class="masthead-nav" aria-label="Site"><a href="/help/">Help</a></nav>
+</header>
+<main id="main">
+
+<section class="hero wrap">
+  <div class="hero-copy">
+    <h1 class="display">Put a price <br>on your <em>scroll</em><span class="dot">.</span></h1>
+    <p class="lede">Every app that eats your time now asks first: worth it?</p>
+    <div class="hero-store"><a class="store" href="https://apps.apple.com/app/id6816464637" aria-label="Download HabitToll on the App Store"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="119.66407" height="40" viewBox="0 0 119.66407 40">
+  
+  <g>
+    <g>
+      <g>
+        <path d="M110.13477,0H9.53468c-.3667,0-.729,0-1.09473.002-.30615.002-.60986.00781-.91895.0127A13.21476,13.21476,0,0,0,5.5171.19141a6.66509,6.66509,0,0,0-1.90088.627A6.43779,6.43779,0,0,0,1.99757,1.99707,6.25844,6.25844,0,0,0,.81935,3.61816a6.60119,6.60119,0,0,0-.625,1.90332,12.993,12.993,0,0,0-.1792,2.002C.00587,7.83008.00489,8.1377,0,8.44434V31.5586c.00489.3105.00587.6113.01515.9219a12.99232,12.99232,0,0,0,.1792,2.0019,6.58756,6.58756,0,0,0,.625,1.9043A6.20778,6.20778,0,0,0,1.99757,38.001a6.27445,6.27445,0,0,0,1.61865,1.1787,6.70082,6.70082,0,0,0,1.90088.6308,13.45514,13.45514,0,0,0,2.0039.1768c.30909.0068.6128.0107.91895.0107C8.80567,40,9.168,40,9.53468,40H110.13477c.3594,0,.7246,0,1.084-.002.3047,0,.6172-.0039.9219-.0107a13.279,13.279,0,0,0,2-.1768,6.80432,6.80432,0,0,0,1.9082-.6308,6.27742,6.27742,0,0,0,1.6172-1.1787,6.39482,6.39482,0,0,0,1.1816-1.6143,6.60413,6.60413,0,0,0,.6191-1.9043,13.50643,13.50643,0,0,0,.1856-2.0019c.0039-.3106.0039-.6114.0039-.9219.0078-.3633.0078-.7246.0078-1.0938V9.53613c0-.36621,0-.72949-.0078-1.09179,0-.30664,0-.61426-.0039-.9209a13.5071,13.5071,0,0,0-.1856-2.002,6.6177,6.6177,0,0,0-.6191-1.90332,6.46619,6.46619,0,0,0-2.7988-2.7998,6.76754,6.76754,0,0,0-1.9082-.627,13.04394,13.04394,0,0,0-2-.17676c-.3047-.00488-.6172-.01074-.9219-.01269-.3594-.002-.7246-.002-1.084-.002Z" style="fill: #a6a6a6"/>
+        <path d="M8.44483,39.125c-.30468,0-.602-.0039-.90429-.0107a12.68714,12.68714,0,0,1-1.86914-.1631,5.88381,5.88381,0,0,1-1.65674-.5479,5.40573,5.40573,0,0,1-1.397-1.0166,5.32082,5.32082,0,0,1-1.02051-1.3965,5.72186,5.72186,0,0,1-.543-1.6572,12.41351,12.41351,0,0,1-.1665-1.875c-.00634-.2109-.01464-.9131-.01464-.9131V8.44434S.88185,7.75293.8877,7.5498a12.37039,12.37039,0,0,1,.16553-1.87207,5.7555,5.7555,0,0,1,.54346-1.6621A5.37349,5.37349,0,0,1,2.61183,2.61768,5.56543,5.56543,0,0,1,4.01417,1.59521a5.82309,5.82309,0,0,1,1.65332-.54394A12.58589,12.58589,0,0,1,7.543.88721L8.44532.875H111.21387l.9131.0127a12.38493,12.38493,0,0,1,1.8584.16259,5.93833,5.93833,0,0,1,1.6709.54785,5.59374,5.59374,0,0,1,2.415,2.41993,5.76267,5.76267,0,0,1,.5352,1.64892,12.995,12.995,0,0,1,.1738,1.88721c.0029.2832.0029.5874.0029.89014.0079.375.0079.73193.0079,1.09179V30.4648c0,.3633,0,.7178-.0079,1.0752,0,.3252,0,.6231-.0039.9297a12.73126,12.73126,0,0,1-.1709,1.8535,5.739,5.739,0,0,1-.54,1.67,5.48029,5.48029,0,0,1-1.0156,1.3857,5.4129,5.4129,0,0,1-1.3994,1.0225,5.86168,5.86168,0,0,1-1.668.5498,12.54218,12.54218,0,0,1-1.8692.1631c-.2929.0068-.5996.0107-.8974.0107l-1.084.002Z"/>
+      </g>
+      <g id="_Group_" data-name="&lt;Group&gt;">
+        <g id="_Group_2" data-name="&lt;Group&gt;">
+          <g id="_Group_3" data-name="&lt;Group&gt;">
+            <path id="_Path_" data-name="&lt;Path&gt;" d="M24.76888,20.30068a4.94881,4.94881,0,0,1,2.35656-4.15206,5.06566,5.06566,0,0,0-3.99116-2.15768c-1.67924-.17626-3.30719,1.00483-4.1629,1.00483-.87227,0-2.18977-.98733-3.6085-.95814a5.31529,5.31529,0,0,0-4.47292,2.72787c-1.934,3.34842-.49141,8.26947,1.3612,10.97608.9269,1.32535,2.01018,2.8058,3.42763,2.7533,1.38706-.05753,1.9051-.88448,3.5794-.88448,1.65876,0,2.14479.88448,3.591.8511,1.48838-.02416,2.42613-1.33124,3.32051-2.66914a10.962,10.962,0,0,0,1.51842-3.09251A4.78205,4.78205,0,0,1,24.76888,20.30068Z" style="fill: #fff"/>
+            <path id="_Path_2" data-name="&lt;Path&gt;" d="M22.03725,12.21089a4.87248,4.87248,0,0,0,1.11452-3.49062,4.95746,4.95746,0,0,0-3.20758,1.65961,4.63634,4.63634,0,0,0-1.14371,3.36139A4.09905,4.09905,0,0,0,22.03725,12.21089Z" style="fill: #fff"/>
+          </g>
+        </g>
+        <g>
+          <path d="M42.30227,27.13965h-4.7334l-1.13672,3.35645H34.42727l4.4834-12.418h2.083l4.4834,12.418H43.438ZM38.0591,25.59082h3.752l-1.84961-5.44727h-.05176Z" style="fill: #fff"/>
+          <path d="M55.15969,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H48.4302v1.50586h.03418a3.21162,3.21162,0,0,1,2.88281-1.60059C53.645,21.34766,55.15969,23.16406,55.15969,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C52.30227,29.01563,53.24953,27.81934,53.24953,25.96973Z" style="fill: #fff"/>
+          <path d="M65.12453,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H58.395v1.50586h.03418A3.21162,3.21162,0,0,1,61.312,21.34766C63.60988,21.34766,65.12453,23.16406,65.12453,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C62.26711,29.01563,63.21438,27.81934,63.21438,25.96973Z" style="fill: #fff"/>
+          <path d="M71.71047,27.03613c.1377,1.23145,1.334,2.04,2.96875,2.04,1.56641,0,2.69336-.80859,2.69336-1.91895,0-.96387-.67969-1.541-2.28906-1.93652l-1.60937-.3877c-2.28027-.55078-3.33887-1.61719-3.33887-3.34766,0-2.14258,1.86719-3.61426,4.51855-3.61426,2.624,0,4.42285,1.47168,4.4834,3.61426h-1.876c-.1123-1.23926-1.13672-1.9873-2.63379-1.9873s-2.52148.75684-2.52148,1.8584c0,.87793.6543,1.39453,2.25488,1.79l1.36816.33594c2.54785.60254,3.60645,1.626,3.60645,3.44238,0,2.32324-1.85059,3.77832-4.79395,3.77832-2.75391,0-4.61328-1.4209-4.7334-3.667Z" style="fill: #fff"/>
+          <path d="M83.34621,19.2998v2.14258h1.72168v1.47168H83.34621v4.99121c0,.77539.34473,1.13672,1.10156,1.13672a5.80752,5.80752,0,0,0,.61133-.043v1.46289a5.10351,5.10351,0,0,1-1.03223.08594c-1.833,0-2.54785-.68848-2.54785-2.44434V22.91406H80.16262V21.44238H81.479V19.2998Z" style="fill: #fff"/>
+          <path d="M86.065,25.96973c0-2.84863,1.67773-4.63867,4.29395-4.63867,2.625,0,4.29492,1.79,4.29492,4.63867,0,2.85645-1.66113,4.63867-4.29492,4.63867C87.72609,30.6084,86.065,28.82617,86.065,25.96973Zm6.69531,0c0-1.9541-.89551-3.10742-2.40137-3.10742s-2.40039,1.16211-2.40039,3.10742c0,1.96191.89453,3.10645,2.40039,3.10645S92.76027,27.93164,92.76027,25.96973Z" style="fill: #fff"/>
+          <path d="M96.18606,21.44238h1.77246v1.541h.043a2.1594,2.1594,0,0,1,2.17773-1.63574,2.86616,2.86616,0,0,1,.63672.06934v1.73828a2.59794,2.59794,0,0,0-.835-.1123,1.87264,1.87264,0,0,0-1.93652,2.083v5.37012h-1.8584Z" style="fill: #fff"/>
+          <path d="M109.3843,27.83691c-.25,1.64355-1.85059,2.77148-3.89844,2.77148-2.63379,0-4.26855-1.76465-4.26855-4.5957,0-2.83984,1.64355-4.68164,4.19043-4.68164,2.50488,0,4.08008,1.7207,4.08008,4.46582v.63672h-6.39453v.1123a2.358,2.358,0,0,0,2.43555,2.56445,2.04834,2.04834,0,0,0,2.09082-1.27344Zm-6.28223-2.70215h4.52637a2.1773,2.1773,0,0,0-2.2207-2.29785A2.292,2.292,0,0,0,103.10207,25.13477Z" style="fill: #fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_Group_4" data-name="&lt;Group&gt;">
+      <g>
+        <path d="M37.82619,8.731a2.63964,2.63964,0,0,1,2.80762,2.96484c0,1.90625-1.03027,3.002-2.80762,3.002H35.67092V8.731Zm-1.22852,5.123h1.125a1.87588,1.87588,0,0,0,1.96777-2.146,1.881,1.881,0,0,0-1.96777-2.13379h-1.125Z" style="fill: #fff"/>
+        <path d="M41.68068,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C44.57522,13.99463,45.01369,13.42432,45.01369,12.44434Z" style="fill: #fff"/>
+        <path d="M51.57326,14.69775h-.92187l-.93066-3.31641h-.07031l-.92676,3.31641h-.91309l-1.24121-4.50293h.90137l.80664,3.436h.06641l.92578-3.436h.85254l.92578,3.436h.07031l.80273-3.436h.88867Z" style="fill: #fff"/>
+        <path d="M53.85354,10.19482H54.709v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915h-.88867V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
+        <path d="M59.09377,8.437h.88867v6.26074h-.88867Z" style="fill: #fff"/>
+        <path d="M61.21779,12.44434a2.13346,2.13346,0,1,1,4.24756,0,2.1338,2.1338,0,1,1-4.24756,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C64.11232,13.99463,64.5508,13.42432,64.5508,12.44434Z" style="fill: #fff"/>
+        <path d="M66.4009,13.42432c0-.81055.60352-1.27783,1.6748-1.34424l1.21973-.07031v-.38867c0-.47559-.31445-.74414-.92187-.74414-.49609,0-.83984.18213-.93848.50049h-.86035c.09082-.77344.81836-1.26953,1.83984-1.26953,1.12891,0,1.76563.562,1.76563,1.51318v3.07666h-.85547v-.63281h-.07031a1.515,1.515,0,0,1-1.35254.707A1.36026,1.36026,0,0,1,66.4009,13.42432Zm2.89453-.38477v-.37646l-1.09961.07031c-.62012.0415-.90137.25244-.90137.64941,0,.40527.35156.64111.835.64111A1.0615,1.0615,0,0,0,69.29543,13.03955Z" style="fill: #fff"/>
+        <path d="M71.34816,12.44434c0-1.42285.73145-2.32422,1.86914-2.32422a1.484,1.484,0,0,1,1.38086.79h.06641V8.437h.88867v6.26074h-.85156v-.71143h-.07031a1.56284,1.56284,0,0,1-1.41406.78564C72.0718,14.772,71.34816,13.87061,71.34816,12.44434Zm.918,0c0,.95508.4502,1.52979,1.20313,1.52979.749,0,1.21191-.583,1.21191-1.52588,0-.93848-.46777-1.52979-1.21191-1.52979C72.72121,10.91846,72.26613,11.49707,72.26613,12.44434Z" style="fill: #fff"/>
+        <path d="M79.23,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C82.12453,13.99463,82.563,13.42432,82.563,12.44434Z" style="fill: #fff"/>
+        <path d="M84.66945,10.19482h.85547v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915H87.605V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
+        <path d="M93.51516,9.07373v1.1416h.97559v.74854h-.97559V13.2793c0,.47168.19434.67822.63672.67822a2.96657,2.96657,0,0,0,.33887-.02051v.74023a2.9155,2.9155,0,0,1-.4834.04541c-.98828,0-1.38184-.34766-1.38184-1.21582v-2.543h-.71484v-.74854h.71484V9.07373Z" style="fill: #fff"/>
+        <path d="M95.70461,8.437h.88086v2.48145h.07031a1.3856,1.3856,0,0,1,1.373-.80664,1.48339,1.48339,0,0,1,1.55078,1.67871v2.90723H98.69v-2.688c0-.71924-.335-1.0835-.96289-1.0835a1.05194,1.05194,0,0,0-1.13379,1.1416v2.62988h-.88867Z" style="fill: #fff"/>
+        <path d="M104.76125,13.48193a1.828,1.828,0,0,1-1.95117,1.30273A2.04531,2.04531,0,0,1,100.73,12.46045a2.07685,2.07685,0,0,1,2.07617-2.35254c1.25293,0,2.00879.856,2.00879,2.27V12.688h-3.17969v.0498a1.1902,1.1902,0,0,0,1.19922,1.29,1.07934,1.07934,0,0,0,1.07129-.5459Zm-3.126-1.45117h2.27441a1.08647,1.08647,0,0,0-1.1084-1.1665A1.15162,1.15162,0,0,0,101.63527,12.03076Z" style="fill: #fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
+</a><p class="requires">For iPhone · iOS 26.4 or later</p></div>
+  </div>
+  <figure class="hero-object" role="img" aria-label="A HabitToll ticket: 10 minutes for €0.29.">
+    <div class="lift"><div class="tilt"><svg class="shield-ticket" viewBox="-1 -1 162 124" aria-hidden="true"><defs><linearGradient id="tkg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBF8F2"/><stop offset=".5" stop-color="#F7F3EB"/><stop offset="1" stop-color="#F2EDE3"/></linearGradient><clipPath id="tkc"><path d="M13 0L114 0A8 8 0 0 0 130 0L147 0A13 13 0 0 1 160 13L160 109A13 13 0 0 1 147 122L130 122A8 8 0 0 0 114 122L13 122A13 13 0 0 1 0 109L0 13A13 13 0 0 1 13 0Z"/></clipPath></defs><path d="M13 0L114 0A8 8 0 0 0 130 0L147 0A13 13 0 0 1 160 13L160 109A13 13 0 0 1 147 122L130 122A8 8 0 0 0 114 122L13 122A13 13 0 0 1 0 109L0 13A13 13 0 0 1 13 0Z" fill="url(#tkg)"/><pattern id="tkp" patternUnits="userSpaceOnUse" width="88" height="88"><image href="/assets/paper.png" width="88" height="88"/></pattern><rect width="160" height="122" fill="url(#tkp)" clip-path="url(#tkc)" opacity=".85"/><path d="M13 0L114 0A8 8 0 0 0 130 0L147 0A13 13 0 0 1 160 13L160 109A13 13 0 0 1 147 122L130 122A8 8 0 0 0 114 122L13 122A13 13 0 0 1 0 109L0 13A13 13 0 0 1 13 0Z" fill="none" stroke="#161513" stroke-opacity=".09" stroke-width=".75"/><line x1="122" y1="12" x2="122" y2="110" stroke="#161513" stroke-opacity=".22" stroke-width="1.8" stroke-linecap="round" stroke-dasharray=".01 6"/><path d="M130.5 28h14v4.4h-14zM130.5 33.87h14v2.93h-14zM130.5 39.73h14v1.47h-14zM130.5 44.13h14v4.4h-14zM130.5 50h14v4.4h-14zM130.5 57.33h14v1.47h-14zM130.5 61.73h14v2.93h-14zM130.5 66.13h14v1.47h-14zM130.5 69.07h14v1.47h-14zM130.5 73.47h14v2.93h-14zM130.5 79.33h14v2.93h-14zM130.5 85.2h14v1.47h-14zM130.5 89.6h14v2.93h-14z" fill="#161513" fill-opacity=".78"/><text class="t-mono" transform="translate(152 61.0) rotate(-90)" text-anchor="middle" dominant-baseline="central" font-size="7.5" font-weight="700" letter-spacing="2" fill="#6B665D" opacity=".85">HABITTOLL</text><text class="t-mono" x="15" y="44.8" font-size="12" font-weight="700" letter-spacing="2.6" fill="#6B665D">10 MIN</text><text class="t-serif" x="15" y="85.96" fill="#D6422B"><tspan font-size="22">€</tspan><tspan font-size="44" letter-spacing="-1.1" dx="2.2">0.29</tspan></text></svg></div></div>
+  </figure>
+</section>
+
+<section class="chapter wrap" aria-labelledby="years-title">
+  <div class="chapter-head center">
+    <h2 id="years-title">Years, not <em>minutes</em><span class="dot">.</span></h2>
+    <p class="lede">See what scrolling adds up to.</p>
+  </div>
+  <div class="years reveal">
+    <p class="kicker">If nothing changes</p>
+    <p class="years-figure"><span class="n">9</span><span class="u">years</span></p>
+    <p class="years-line">of your life, looking at your phone.</p>
+    <ol class="years-grid" role="img" aria-label="Nine of the 54 years from age 26 to 80, filled in."><li class="full" style="--i:0"></li><li class="full" style="--i:1"></li><li class="full" style="--i:2"></li><li class="full" style="--i:3"></li><li class="full" style="--i:4"></li><li class="full" style="--i:5"></li><li class="full" style="--i:6"></li><li class="full" style="--i:7"></li><li class="full" style="--i:8"></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ol>
+    <p class="note">At 4 hours a day, from 26 to 80. <span class="nowrap">1 square = 1 year.</span></p>
+  </div>
+</section>
+
+<section class="chapter wrap split reverse" aria-labelledby="ask-title">
+  <div class="copy">
+    <h2 id="ask-title">It asks <em>first</em><span class="dot">.</span></h2>
+    <p class="lede">Open an app you blocked, and it asks: worth it? Walk away in one tap, or buy 10 minutes at your price.</p>
+  </div>
+  <div class="demo" data-demo data-state="offer" data-strings='{&quot;walked&quot;: [&quot;Walked away.&quot;, &quot;That&#x27;s 1 today.&quot;, &quot;That&#x27;s {n} today.&quot;], &quot;paid&quot;: [&quot;10 minutes are yours.&quot;, &quot;Now open it again.&quot;], &quot;at&quot;: &quot;at&quot;}'>
+      <div class="pay-ticket">
+        <div class="pay-paper" aria-hidden="true"></div>
+        <div class="pay-face">
+          <p class="kicker">10 minutes</p>
+          <span class="price price-hero"><span class="cur">€</span><span class="num">0.29</span></span>
+          <span class="rubber rubber-walked" aria-hidden="true">Not worth it</span>
+          <span class="rubber rubber-paid" aria-hidden="true">Paid</span>
+        </div>
+        <div class="perforation" aria-hidden="true"></div>
+        <div class="pay-stub">
+          <dl class="ledger stub-offer"><div class="ledger-row"><dt>After this one</dt><dd>€0.59</dd></div><div class="ledger-row"><dt>This month</dt><dd>€1.16 of €20</dd></div></dl>
+          <p class="stub-time" aria-hidden="true"></p>
+        </div>
+      </div>
+      <div class="demo-below">
+        <div class="demo-actions">
+          <button type="button" class="btn btn-pay" data-choice="paid">Pay €0.29</button>
+          <button type="button" class="btn btn-win" data-choice="walked">Not worth it</button>
+          <p class="demo-note">Try it. Nothing is charged here.</p>
+        </div>
+        <div class="demo-outcome">
+          <div aria-live="polite">
+            <p class="result-title"></p>
+            <p class="result-line"></p>
+          </div>
+          <button type="button" class="btn-link" data-reset>Again</button>
+        </div>
+      </div>
+  </div>
+</section>
+
+<section class="chapter wrap split" aria-labelledby="streak-title">
+  <div class="copy">
+    <h2 id="streak-title">Days on your <em>terms</em><span class="dot">.</span></h2>
+    <p class="lede">Every walk-away counts. Every week on your terms gets a stamp.</p>
+  </div>
+  <figure class="streak reveal" role="img" aria-label="A streak of 12 days on your terms, best 19 days, and a stamp for the first week.">
+    <div class="streak-sheet">
+      <p class="streak-n">12</p>
+      <p class="streak-label">days on your terms</p>
+      <ol class="week"><li class="done"><span class="pip"></span><span class="day">F</span></li><li class="done"><span class="pip"></span><span class="day">S</span></li><li class="done"><span class="pip"></span><span class="day">S</span></li><li class="done"><span class="pip"></span><span class="day">M</span></li><li class="done"><span class="pip"></span><span class="day">T</span></li><li class="done"><span class="pip"></span><span class="day">W</span></li><li class="today"><span class="pip"></span><span class="day">T</span></li></ol>
+      <dl class="ledger"><div class="ledger-row"><dt>Best</dt><dd>19 days</dd></div></dl>
+    </div>
+    <div class="stamp-press"><svg class="round-stamp" viewBox="0 0 200 200" aria-hidden="true" fill="#161513"><circle cx="100" cy="100" r="96.6" fill="none" stroke="#161513" stroke-width="6.8"/><circle cx="100" cy="100" r="62" fill="none" stroke="#161513" stroke-width="2.4"/><text class="t-mono" x="100" y="21.8" transform="rotate(-20.63 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">S</text><text class="t-mono" x="100" y="21.8" transform="rotate(-12.38 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">T</text><text class="t-mono" x="100" y="21.8" transform="rotate(-4.13 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">E</text><text class="t-mono" x="100" y="21.8" transform="rotate(4.13 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">A</text><text class="t-mono" x="100" y="21.8" transform="rotate(12.38 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">D</text><text class="t-mono" x="100" y="21.8" transform="rotate(20.63 100 100)" text-anchor="middle" dominant-baseline="central" font-size="17.6" font-weight="700">Y</text><polygon points="100,172.15 101.6,176 105.75,176.33 102.59,179.04 103.56,183.09 100,180.92 96.44,183.09 97.41,179.04 94.25,176.33 98.4,176"/><text class="t-serif" x="100" y="113" text-anchor="middle" font-size="60" font-weight="600" letter-spacing="-1.2">7</text><text class="t-mono" x="101" y="138" text-anchor="middle" font-size="18.4" font-weight="700" letter-spacing="2">DAYS</text></svg></div>
+  </figure>
+</section>
+
+<section class="chapter wrap split reverse" aria-labelledby="rules-title">
+  <div class="copy">
+    <h2 id="rules-title">Your price. Your <em>limit</em><span class="dot">.</span></h2>
+    <p class="lede">From a few cents for 10 minutes. Past your monthly limit, it asks first, or stops you there.</p>
+  </div>
+  <div class="deal-wrap reveal">
+    <div class="receipt-wrap">
+      <div class="receipt deal">
+        <p class="deal-title">Deal?</p>
+        <div class="rule"></div>
+        <dl class="ledger" aria-label="Your settings, as a receipt"><div class="ledger-row"><dt>Apps</dt><dd>4</dd></div><div class="ledger-row"><dt>Price</dt><dd>€0.29, doubling</dd></div><div class="ledger-row"><dt>Limit</dt><dd>€20 a month</dd></div><div class="ledger-row"><dt>Free minutes</dt><dd>5 a day</dd></div><div class="ledger-row"><dt>Emergencies</dt><dd>2 a month</dd></div></dl>
+      </div>
+    </div>
+    <button type="button" class="hold" data-hold data-done-label="Deal.">
+      <span class="hold-ink" aria-hidden="true"></span>
+      <span class="hold-label">I'll pay when it's worth it.</span>
+    </button>
+    <p class="hold-note">Hold to confirm</p>
+  </div>
+</section>
+
+<section class="chapter wrap" aria-labelledby="bill-title">
+  <div class="chapter-head center">
+    <h2 id="bill-title">Your month on one <em>receipt</em><span class="dot">.</span></h2>
+    <p class="lede">Share it if you like. It never names your apps.</p>
+  </div>
+  <figure class="bill-wrap reveal" role="img" aria-label="October bill so far: 4 unlocks, €1.46 in total. Walked away 23 times.">
+    <div class="receipt bill">
+      <div class="bill-head"><svg class="mark" viewBox="0 0 100 100" width="22" height="22" aria-hidden="true"><path fill="#D6422B" fill-rule="evenodd" d="M50 50L50 0A50 50 0 0 1 93.3 25ZM54.35 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><path fill="#161513" d="M82.64 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM82.64 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM54.35 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><circle cx="50" cy="50" r="7.5" fill="#161513"/></svg><span class="bill-brand">HabitToll</span><span class="bill-kicker">Monthly bill</span></div>
+      <p class="bill-month">October</p>
+      <p class="bill-year">2026</p>
+      <div class="rule"></div>
+      <dl class="ledger"><div class="ledger-row"><dt>Unlocks</dt><dd>4</dd></div><div class="ledger-row"><dt>Walked away</dt><dd class="green">23</dd></div><div class="ledger-row"><dt>Said no</dt><dd>85%</dd></div></dl>
+      <div class="rule"></div>
+      <div class="bill-total"><span class="bill-total-label">So far</span><span class="price price-total"><span class="cur">€</span><span class="num">1.46</span></span></div>
+      <svg class="barcode" viewBox="0 0 97 28" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0h2v28h-2zM4 0h2v28h-2zM8 0h1v28h-1zM11 0h1v28h-1zM14 0h3v28h-3zM19 0h2v28h-2zM22 0h1v28h-1zM24 0h3v28h-3zM29 0h1v28h-1zM31 0h1v28h-1zM33 0h3v28h-3zM37 0h3v28h-3zM42 0h3v28h-3zM48 0h2v28h-2zM53 0h2v28h-2zM58 0h1v28h-1zM62 0h2v28h-2zM65 0h2v28h-2zM70 0h2v28h-2zM74 0h2v28h-2zM78 0h2v28h-2zM81 0h1v28h-1zM85 0h3v28h-3zM91 0h1v28h-1zM93 0h3v28h-3z" fill="currentColor"/></svg>
+      <p class="bill-tagline">Put a price on your <em>scroll</em><span class="dot">.</span></p>
+    </div>
+  </figure>
+</section>
+
+<section class="finale wrap center" aria-labelledby="end-title">
+  <img class="app-icon" src="/assets/icon-256.png" srcset="/assets/icon-512.png 2x" width="128" height="128" alt="">
+  <h2 id="end-title">Get your <em>time</em> back<span class="dot">.</span></h2>
+  <p class="lede">Which apps you block, and how long you use them, never leave your iPhone.</p>
+  <div class="finale-store"><a class="store" href="https://apps.apple.com/app/id6816464637" aria-label="Download HabitToll on the App Store"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="119.66407" height="40" viewBox="0 0 119.66407 40">
+  
+  <g>
+    <g>
+      <g>
+        <path d="M110.13477,0H9.53468c-.3667,0-.729,0-1.09473.002-.30615.002-.60986.00781-.91895.0127A13.21476,13.21476,0,0,0,5.5171.19141a6.66509,6.66509,0,0,0-1.90088.627A6.43779,6.43779,0,0,0,1.99757,1.99707,6.25844,6.25844,0,0,0,.81935,3.61816a6.60119,6.60119,0,0,0-.625,1.90332,12.993,12.993,0,0,0-.1792,2.002C.00587,7.83008.00489,8.1377,0,8.44434V31.5586c.00489.3105.00587.6113.01515.9219a12.99232,12.99232,0,0,0,.1792,2.0019,6.58756,6.58756,0,0,0,.625,1.9043A6.20778,6.20778,0,0,0,1.99757,38.001a6.27445,6.27445,0,0,0,1.61865,1.1787,6.70082,6.70082,0,0,0,1.90088.6308,13.45514,13.45514,0,0,0,2.0039.1768c.30909.0068.6128.0107.91895.0107C8.80567,40,9.168,40,9.53468,40H110.13477c.3594,0,.7246,0,1.084-.002.3047,0,.6172-.0039.9219-.0107a13.279,13.279,0,0,0,2-.1768,6.80432,6.80432,0,0,0,1.9082-.6308,6.27742,6.27742,0,0,0,1.6172-1.1787,6.39482,6.39482,0,0,0,1.1816-1.6143,6.60413,6.60413,0,0,0,.6191-1.9043,13.50643,13.50643,0,0,0,.1856-2.0019c.0039-.3106.0039-.6114.0039-.9219.0078-.3633.0078-.7246.0078-1.0938V9.53613c0-.36621,0-.72949-.0078-1.09179,0-.30664,0-.61426-.0039-.9209a13.5071,13.5071,0,0,0-.1856-2.002,6.6177,6.6177,0,0,0-.6191-1.90332,6.46619,6.46619,0,0,0-2.7988-2.7998,6.76754,6.76754,0,0,0-1.9082-.627,13.04394,13.04394,0,0,0-2-.17676c-.3047-.00488-.6172-.01074-.9219-.01269-.3594-.002-.7246-.002-1.084-.002Z" style="fill: #a6a6a6"/>
+        <path d="M8.44483,39.125c-.30468,0-.602-.0039-.90429-.0107a12.68714,12.68714,0,0,1-1.86914-.1631,5.88381,5.88381,0,0,1-1.65674-.5479,5.40573,5.40573,0,0,1-1.397-1.0166,5.32082,5.32082,0,0,1-1.02051-1.3965,5.72186,5.72186,0,0,1-.543-1.6572,12.41351,12.41351,0,0,1-.1665-1.875c-.00634-.2109-.01464-.9131-.01464-.9131V8.44434S.88185,7.75293.8877,7.5498a12.37039,12.37039,0,0,1,.16553-1.87207,5.7555,5.7555,0,0,1,.54346-1.6621A5.37349,5.37349,0,0,1,2.61183,2.61768,5.56543,5.56543,0,0,1,4.01417,1.59521a5.82309,5.82309,0,0,1,1.65332-.54394A12.58589,12.58589,0,0,1,7.543.88721L8.44532.875H111.21387l.9131.0127a12.38493,12.38493,0,0,1,1.8584.16259,5.93833,5.93833,0,0,1,1.6709.54785,5.59374,5.59374,0,0,1,2.415,2.41993,5.76267,5.76267,0,0,1,.5352,1.64892,12.995,12.995,0,0,1,.1738,1.88721c.0029.2832.0029.5874.0029.89014.0079.375.0079.73193.0079,1.09179V30.4648c0,.3633,0,.7178-.0079,1.0752,0,.3252,0,.6231-.0039.9297a12.73126,12.73126,0,0,1-.1709,1.8535,5.739,5.739,0,0,1-.54,1.67,5.48029,5.48029,0,0,1-1.0156,1.3857,5.4129,5.4129,0,0,1-1.3994,1.0225,5.86168,5.86168,0,0,1-1.668.5498,12.54218,12.54218,0,0,1-1.8692.1631c-.2929.0068-.5996.0107-.8974.0107l-1.084.002Z"/>
+      </g>
+      <g id="_Group_" data-name="&lt;Group&gt;">
+        <g id="_Group_2" data-name="&lt;Group&gt;">
+          <g id="_Group_3" data-name="&lt;Group&gt;">
+            <path id="_Path_" data-name="&lt;Path&gt;" d="M24.76888,20.30068a4.94881,4.94881,0,0,1,2.35656-4.15206,5.06566,5.06566,0,0,0-3.99116-2.15768c-1.67924-.17626-3.30719,1.00483-4.1629,1.00483-.87227,0-2.18977-.98733-3.6085-.95814a5.31529,5.31529,0,0,0-4.47292,2.72787c-1.934,3.34842-.49141,8.26947,1.3612,10.97608.9269,1.32535,2.01018,2.8058,3.42763,2.7533,1.38706-.05753,1.9051-.88448,3.5794-.88448,1.65876,0,2.14479.88448,3.591.8511,1.48838-.02416,2.42613-1.33124,3.32051-2.66914a10.962,10.962,0,0,0,1.51842-3.09251A4.78205,4.78205,0,0,1,24.76888,20.30068Z" style="fill: #fff"/>
+            <path id="_Path_2" data-name="&lt;Path&gt;" d="M22.03725,12.21089a4.87248,4.87248,0,0,0,1.11452-3.49062,4.95746,4.95746,0,0,0-3.20758,1.65961,4.63634,4.63634,0,0,0-1.14371,3.36139A4.09905,4.09905,0,0,0,22.03725,12.21089Z" style="fill: #fff"/>
+          </g>
+        </g>
+        <g>
+          <path d="M42.30227,27.13965h-4.7334l-1.13672,3.35645H34.42727l4.4834-12.418h2.083l4.4834,12.418H43.438ZM38.0591,25.59082h3.752l-1.84961-5.44727h-.05176Z" style="fill: #fff"/>
+          <path d="M55.15969,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H48.4302v1.50586h.03418a3.21162,3.21162,0,0,1,2.88281-1.60059C53.645,21.34766,55.15969,23.16406,55.15969,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C52.30227,29.01563,53.24953,27.81934,53.24953,25.96973Z" style="fill: #fff"/>
+          <path d="M65.12453,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H58.395v1.50586h.03418A3.21162,3.21162,0,0,1,61.312,21.34766C63.60988,21.34766,65.12453,23.16406,65.12453,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C62.26711,29.01563,63.21438,27.81934,63.21438,25.96973Z" style="fill: #fff"/>
+          <path d="M71.71047,27.03613c.1377,1.23145,1.334,2.04,2.96875,2.04,1.56641,0,2.69336-.80859,2.69336-1.91895,0-.96387-.67969-1.541-2.28906-1.93652l-1.60937-.3877c-2.28027-.55078-3.33887-1.61719-3.33887-3.34766,0-2.14258,1.86719-3.61426,4.51855-3.61426,2.624,0,4.42285,1.47168,4.4834,3.61426h-1.876c-.1123-1.23926-1.13672-1.9873-2.63379-1.9873s-2.52148.75684-2.52148,1.8584c0,.87793.6543,1.39453,2.25488,1.79l1.36816.33594c2.54785.60254,3.60645,1.626,3.60645,3.44238,0,2.32324-1.85059,3.77832-4.79395,3.77832-2.75391,0-4.61328-1.4209-4.7334-3.667Z" style="fill: #fff"/>
+          <path d="M83.34621,19.2998v2.14258h1.72168v1.47168H83.34621v4.99121c0,.77539.34473,1.13672,1.10156,1.13672a5.80752,5.80752,0,0,0,.61133-.043v1.46289a5.10351,5.10351,0,0,1-1.03223.08594c-1.833,0-2.54785-.68848-2.54785-2.44434V22.91406H80.16262V21.44238H81.479V19.2998Z" style="fill: #fff"/>
+          <path d="M86.065,25.96973c0-2.84863,1.67773-4.63867,4.29395-4.63867,2.625,0,4.29492,1.79,4.29492,4.63867,0,2.85645-1.66113,4.63867-4.29492,4.63867C87.72609,30.6084,86.065,28.82617,86.065,25.96973Zm6.69531,0c0-1.9541-.89551-3.10742-2.40137-3.10742s-2.40039,1.16211-2.40039,3.10742c0,1.96191.89453,3.10645,2.40039,3.10645S92.76027,27.93164,92.76027,25.96973Z" style="fill: #fff"/>
+          <path d="M96.18606,21.44238h1.77246v1.541h.043a2.1594,2.1594,0,0,1,2.17773-1.63574,2.86616,2.86616,0,0,1,.63672.06934v1.73828a2.59794,2.59794,0,0,0-.835-.1123,1.87264,1.87264,0,0,0-1.93652,2.083v5.37012h-1.8584Z" style="fill: #fff"/>
+          <path d="M109.3843,27.83691c-.25,1.64355-1.85059,2.77148-3.89844,2.77148-2.63379,0-4.26855-1.76465-4.26855-4.5957,0-2.83984,1.64355-4.68164,4.19043-4.68164,2.50488,0,4.08008,1.7207,4.08008,4.46582v.63672h-6.39453v.1123a2.358,2.358,0,0,0,2.43555,2.56445,2.04834,2.04834,0,0,0,2.09082-1.27344Zm-6.28223-2.70215h4.52637a2.1773,2.1773,0,0,0-2.2207-2.29785A2.292,2.292,0,0,0,103.10207,25.13477Z" style="fill: #fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_Group_4" data-name="&lt;Group&gt;">
+      <g>
+        <path d="M37.82619,8.731a2.63964,2.63964,0,0,1,2.80762,2.96484c0,1.90625-1.03027,3.002-2.80762,3.002H35.67092V8.731Zm-1.22852,5.123h1.125a1.87588,1.87588,0,0,0,1.96777-2.146,1.881,1.881,0,0,0-1.96777-2.13379h-1.125Z" style="fill: #fff"/>
+        <path d="M41.68068,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C44.57522,13.99463,45.01369,13.42432,45.01369,12.44434Z" style="fill: #fff"/>
+        <path d="M51.57326,14.69775h-.92187l-.93066-3.31641h-.07031l-.92676,3.31641h-.91309l-1.24121-4.50293h.90137l.80664,3.436h.06641l.92578-3.436h.85254l.92578,3.436h.07031l.80273-3.436h.88867Z" style="fill: #fff"/>
+        <path d="M53.85354,10.19482H54.709v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915h-.88867V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
+        <path d="M59.09377,8.437h.88867v6.26074h-.88867Z" style="fill: #fff"/>
+        <path d="M61.21779,12.44434a2.13346,2.13346,0,1,1,4.24756,0,2.1338,2.1338,0,1,1-4.24756,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C64.11232,13.99463,64.5508,13.42432,64.5508,12.44434Z" style="fill: #fff"/>
+        <path d="M66.4009,13.42432c0-.81055.60352-1.27783,1.6748-1.34424l1.21973-.07031v-.38867c0-.47559-.31445-.74414-.92187-.74414-.49609,0-.83984.18213-.93848.50049h-.86035c.09082-.77344.81836-1.26953,1.83984-1.26953,1.12891,0,1.76563.562,1.76563,1.51318v3.07666h-.85547v-.63281h-.07031a1.515,1.515,0,0,1-1.35254.707A1.36026,1.36026,0,0,1,66.4009,13.42432Zm2.89453-.38477v-.37646l-1.09961.07031c-.62012.0415-.90137.25244-.90137.64941,0,.40527.35156.64111.835.64111A1.0615,1.0615,0,0,0,69.29543,13.03955Z" style="fill: #fff"/>
+        <path d="M71.34816,12.44434c0-1.42285.73145-2.32422,1.86914-2.32422a1.484,1.484,0,0,1,1.38086.79h.06641V8.437h.88867v6.26074h-.85156v-.71143h-.07031a1.56284,1.56284,0,0,1-1.41406.78564C72.0718,14.772,71.34816,13.87061,71.34816,12.44434Zm.918,0c0,.95508.4502,1.52979,1.20313,1.52979.749,0,1.21191-.583,1.21191-1.52588,0-.93848-.46777-1.52979-1.21191-1.52979C72.72121,10.91846,72.26613,11.49707,72.26613,12.44434Z" style="fill: #fff"/>
+        <path d="M79.23,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C82.12453,13.99463,82.563,13.42432,82.563,12.44434Z" style="fill: #fff"/>
+        <path d="M84.66945,10.19482h.85547v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915H87.605V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
+        <path d="M93.51516,9.07373v1.1416h.97559v.74854h-.97559V13.2793c0,.47168.19434.67822.63672.67822a2.96657,2.96657,0,0,0,.33887-.02051v.74023a2.9155,2.9155,0,0,1-.4834.04541c-.98828,0-1.38184-.34766-1.38184-1.21582v-2.543h-.71484v-.74854h.71484V9.07373Z" style="fill: #fff"/>
+        <path d="M95.70461,8.437h.88086v2.48145h.07031a1.3856,1.3856,0,0,1,1.373-.80664,1.48339,1.48339,0,0,1,1.55078,1.67871v2.90723H98.69v-2.688c0-.71924-.335-1.0835-.96289-1.0835a1.05194,1.05194,0,0,0-1.13379,1.1416v2.62988h-.88867Z" style="fill: #fff"/>
+        <path d="M104.76125,13.48193a1.828,1.828,0,0,1-1.95117,1.30273A2.04531,2.04531,0,0,1,100.73,12.46045a2.07685,2.07685,0,0,1,2.07617-2.35254c1.25293,0,2.00879.856,2.00879,2.27V12.688h-3.17969v.0498a1.1902,1.1902,0,0,0,1.19922,1.29,1.07934,1.07934,0,0,0,1.07129-.5459Zm-3.126-1.45117h2.27441a1.08647,1.08647,0,0,0-1.1084-1.1665A1.15162,1.15162,0,0,0,101.63527,12.03076Z" style="fill: #fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
+</a><p class="requires">For iPhone · iOS 26.4 or later</p></div>
+</section>
+
 </main>
-<footer class="wrap">
-<p>Comads OÜ · Tallinn, Estonia</p>
+<footer class="colophon wrap">
+  <div class="tear" aria-hidden="true"></div>
+  <div class="colophon-row">
+    <a class="brand brand-small" href="/"><svg class="mark" viewBox="0 0 100 100" width="20" height="20" aria-hidden="true"><path fill="#D6422B" fill-rule="evenodd" d="M50 50L50 0A50 50 0 0 1 93.3 25ZM54.35 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><path fill="#161513" d="M82.64 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM82.64 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM54.35 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><circle cx="50" cy="50" r="7.5" fill="#161513"/></svg><span>HabitToll</span></a>
+    <nav class="colophon-nav" aria-label="Legal">
+      <a href="/help/">Help</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/imprint/">Imprint</a>
+    </nav>
+  </div>
+  <p class="colophon-fine">© 2026 Comads OÜ · Tallinn, Estonia · <a href="mailto:help@elynd.app">help@elynd.app</a></p>
 </footer>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "MobileApplication", "name": "HabitToll", "operatingSystem": "iOS 26.4", "applicationCategory": "ProductivityApplication", "url": "https://habittoll.com/", "downloadUrl": "https://apps.apple.com/app/id6816464637", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}, "publisher": {"@type": "Organization", "name": "Comads OÜ", "url": "https://habittoll.com/imprint/"}}</script>
+<script src="/assets/site.js?v=29d46d61" defer></script>
 </body>
 </html>
