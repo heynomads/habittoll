@@ -43,7 +43,7 @@
 <article class="prose" lang="es">
 <h1 id="política-de-privacidad-de-habittoll">Política de privacidad de
 HabitToll</h1>
-<p><em>Última actualización: 5 de octubre de 2026</em></p>
+<p><em>Última actualización: 7 de octubre de 2026</em></p>
 <p>HabitToll pone precio a las apps que quieres abrir menos. Esta
 política explica qué datos usa la app, adónde van y qué puedes hacer al
 respecto.</p>
@@ -54,12 +54,12 @@ copias del dispositivo pueden contener una copia (consulta «Android y
 esta versión»).</li>
 <li>No hay cuenta. Nunca te pedimos tu nombre, tu correo electrónico ni
 tu cuenta de Apple ni tu cuenta de Google.</li>
-<li><strong>En esta versión, la app no nos envía nada.</strong> Tus
-compras pasan por Apple o Google Play.</li>
-<li>Una actualización posterior añadirá nuestro propio servidor para los
-registros de compra, Amigos y estadísticas de uso opcionales. Las
-secciones 4 a 8 ya describen cómo funcionarán. Te avisaremos en la app
-antes de que empiece cualquiera de ellas.</li>
+<li><strong>La app no nos envía nada, salvo para Amigos si lo
+activas</strong> (sección 6). Tus compras pasan por Apple o Google
+Play.</li>
+<li>Los registros de compra y las estadísticas de uso opcionales
+(secciones 4, 5 y 7) aún no están activados. Te avisaremos en la app
+antes de que empiece cualquiera de ellos.</li>
 <li>No vendemos datos, no mostramos anuncios en la app y no te
 rastreamos en otras apps ni sitios web.</li>
 <li>Puede que anunciemos HabitToll en plataformas como Apple, Google o
@@ -67,12 +67,13 @@ Meta. La app y este sitio web no contienen código publicitario ni de
 seguimiento, y este sitio web no usa cookies (secciones 14 y 15).</li>
 </ul>
 <h2 id="android-y-esta-versión">Android y esta versión</h2>
-<p>Esta política cubre HabitToll en iPhone y Android. En la versión 1.0
-de ambas plataformas, los registros de compra, los datos de Amigos, las
-estadísticas de uso y los registros del servidor descritos en las
-secciones 4–8 no se envían a nuestros servidores: esas funciones del
-servidor aún no están activas. Te avisaremos antes de que una versión
-posterior las active.</p>
+<p>Esta política cubre HabitToll en iPhone y Android. Desde la versión
+1.0.3 en iPhone y 1.0.2 en Android, Amigos (sección 6) funciona si lo
+activas, y se aplican sus registros del servidor (sección 8). Los
+registros de compra y las estadísticas de uso (secciones 4, 5 y 7)
+siguen sin enviarse a nuestros servidores: esas funciones del servidor
+aún no están activas. Te avisaremos antes de que una versión posterior
+las active.</p>
 <p><strong>Qué usa Android.</strong> Durante la configuración activas el
 acceso a datos de uso y el permiso «Mostrar sobre otras apps». Mientras
 el bloqueo está activo y la pantalla encendida, el acceso a datos de uso
@@ -89,7 +90,8 @@ está protegiendo tus apps.</p>
 10 minutos a través de Google Play. Google gestiona el pago y el
 reembolso según <a href="https://policies.google.com/privacy">su
 política de privacidad</a>. La app no nos envía datos de tu tarjeta ni
-de tu cuenta de Google. La app no envía su ID de instalación a Google Play. La app guarda sus registros de compra localmente y no envía
+de tu cuenta de Google. La app no envía su ID de instalación a Google
+Play. La app guarda sus registros de compra localmente y no envía
 ninguno a nuestros servidores en esta versión. Los reembolsos se
 solicitan a través de <a
 href="https://support.google.com/googleplay/answer/2479637">Google
@@ -328,22 +330,24 @@ enviados y la app pide a nuestro servidor que deje de enviar los eventos
 de reembolso.</li>
 </ul>
 <h2 id="registros-del-servidor">8. Registros del servidor</h2>
-<p>Cuando la app habla con nuestro servidor, nuestro proveedor de
-alojamiento guarda breves registros técnicos, por ejemplo la hora, la
-función llamada y la dirección IP. Los usamos para que el servicio
-funcione y para corregir errores. Nuestros propios registros nunca
-contienen tu ID de instalación, tu ID de amigo ni claves.</p>
+<p>Cuando la app habla con nuestro servidor, el servidor guarda breves
+registros técnicos, por ejemplo la hora, la función llamada y los
+errores. Los errores de conexión pueden incluir una dirección IP. Los
+usamos para que el servicio funcione y para corregir errores. Nuestros
+registros nunca contienen tu ID de instalación, tu ID de amigo ni
+claves.</p>
 <ul>
 <li><strong>Base jurídica:</strong> nuestro interés legítimo en un
 servicio que funcione y sea seguro (art. 6, apdo. 1, letra f) del
 RGPD).</li>
-<li><strong>Cuánto tiempo:</strong> unos días.</li>
+<li><strong>Cuánto tiempo:</strong> 14 días.</li>
 </ul>
 <h2 id="quién-trata-datos-por-nosotros">9. Quién trata datos por
 nosotros</h2>
 <ul>
-<li><strong>Supabase Inc.</strong> aloja nuestra base de datos y
-funciones de servidor en la UE (Fráncfort, Alemania).</li>
+<li><strong>Amazon Web Services EMEA SARL</strong> (Luxemburgo) aloja
+nuestro servidor y nuestra base de datos en la UE (Fráncfort,
+Alemania).</li>
 <li><strong>PostHog Inc.</strong> guarda las estadísticas de uso en su
 nube de la UE (Fráncfort, Alemania), y solo si las compartes.</li>
 <li><strong>Cloudflare Inc.</strong> reenvía el correo enviado a
@@ -353,10 +357,11 @@ help@habittoll.com (sección 13).</li>
 reembolsos. Apple es responsable de esos datos, según su propia política
 de privacidad.</li>
 </ul>
-<p>Supabase, PostHog y Cloudflare solo actúan siguiendo nuestras
+<p>AWS, PostHog y Cloudflare solo actúan siguiendo nuestras
 instrucciones, con contratos de encargo del tratamiento, y deben
-proteger los datos al menos como describe esta política. Todas son
-empresas estadounidenses. Si se accede a datos desde fuera de la UE, los
+proteger los datos al menos como describe esta política. PostHog y
+Cloudflare son empresas estadounidenses, y AWS pertenece a la empresa
+estadounidense Amazon. Si se accede a datos desde fuera de la UE, los
 protegen las cláusulas contractuales tipo de la Comisión Europea o el
 Marco de Privacidad de Datos UE-EE. UU.</p>
 <h2 id="tus-derechos">10. Tus derechos</h2>
@@ -459,7 +464,7 @@ cambio te importa, también te avisaremos en la app.</p>
   <div class="colophon-row">
     <a class="brand brand-small" href="/es/"><svg class="mark" viewBox="0 0 100 100" width="20" height="20" aria-hidden="true"><path fill="#D6422B" fill-rule="evenodd" d="M50 50L50 0A50 50 0 0 1 93.3 25ZM54.35 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><path fill="#161513" d="M82.64 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM82.64 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM72.28 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM54.35 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 88.64a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 78.28a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 60.35a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM5.36 39.65a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM15.72 21.72a6 6 0 1 0 12 0a6 6 0 1 0 -12 0ZM33.65 11.36a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z"/><circle cx="50" cy="50" r="7.5" fill="#161513"/></svg><span>HabitToll</span></a>
     <nav class="colophon-nav" aria-label="Legal">
-      <a href="/es/ayuda/">Ayuda</a><a href="/es/privacidad/">Privacidad</a><a href="/es/condiciones/">Condiciones</a><a href="/es/aviso-legal/">Aviso legal</a>
+      <a href="/es/ayuda/">Ayuda</a><a href="/es/dinero/">Adónde va tu dinero</a><a href="/es/privacidad/">Privacidad</a><a href="/es/condiciones/">Condiciones</a><a href="/es/aviso-legal/">Aviso legal</a>
     </nav>
   </div>
   <p class="colophon-fine">© 2026 Comads OÜ · Tallin, Estonia · <a href="mailto:help@habittoll.com">help@habittoll.com</a></p>
