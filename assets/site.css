@@ -1,10 +1,12 @@
 /* habittoll.com: the app's look on the web ("Statement", ios/App/DesignSystem/Theme.swift).
    Warm paper, ink, New York, SF Mono, one vermilion for money, green for walk-aways, hairlines instead of boxes. */
 
+/* Newsreader's upright cut is limited to the weights the site uses (400 to 600, 16 Oct 2026: 132 KB → 92 KB; shapes
+   within 1/2000 em of the original). The italic and JetBrains Mono are as Google Fonts ships them. */
 @font-face {
   font-family: "Newsreader";
   src: url("fonts/newsreader.woff2") format("woff2");
-  font-weight: 200 800;
+  font-weight: 400 600;
   font-style: normal;
   font-display: swap;
 }
