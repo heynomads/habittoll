@@ -25,6 +25,23 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [Terms of use](https://habittoll.com/terms/)
 - [Imprint](https://habittoll.com/imprint/)
 
+## Guides
+- [How to block apps on iPhone, for certain hours or for good](https://habittoll.com/guides/block-apps-on-iphone/): Block apps on iPhone with Screen Time: Time Allowances for a daily amount, a Screen Time Schedule for set hours, and a passcode for the settings. With the iOS 26 steps, and what to do when a hard block is too strict.
+- [How to block apps on Android, for certain hours or for good](https://habittoll.com/guides/block-apps-on-android/): Block apps on Android with Digital Wellbeing: an app timer for a daily limit, Focus mode for set hours, Bedtime mode for the night, and an App limits PIN. Plus what to do when you keep switching it off.
+- [How to stop doomscrolling, especially at night](https://habittoll.com/guides/stop-doomscrolling/): Practical ways to stop doomscrolling on iPhone and Android: a cut-off time for the evening, fewer notifications, a pause before the apps that pull you in, and a plan for what's worth it.
+- [How to reduce your screen time: 10 practical steps](https://habittoll.com/guides/reduce-screen-time/): Ten practical steps to reduce your screen time on iPhone and Android, from reading your own numbers to limits that stick, with what's built into your phone and where an app helps.
+- [An app blocker you can't just switch off: your options](https://habittoll.com/guides/app-blocker-you-cant-turn-off/): Every app blocker can be switched off by the person who installed it. Here's how to make that slower, on iPhone and Android: someone else's passcode, a waiting time, a partner's code, or a price.
+- [A Screen Time passcode for yourself: why it's easy to get around, and what helps](https://habittoll.com/guides/screen-time-passcode/): A Screen Time passcode you set for yourself protects your iPhone settings mostly from other people. Here's what it does, how to set it on iOS 27 and iOS 26, why it rarely stops you, and three ways to make your limits stick.
+
+## Compare
+- [HabitToll vs Screen Time on iPhone](https://habittoll.com/compare/screen-time/): Apple's Screen Time and HabitToll both block apps on iPhone. Screen Time gives categories a daily allowance and a schedule, protected by a passcode; HabitToll asks "worth it?" and puts a price you set on 10 minutes.
+- [HabitToll vs Digital Wellbeing on Android](https://habittoll.com/compare/digital-wellbeing/): Android's Digital Wellbeing and HabitToll both limit apps. Digital Wellbeing closes an app when its daily timer runs out; HabitToll asks "worth it?" each time and puts a price you set on 10 minutes.
+- [HabitToll vs Opal](https://habittoll.com/compare/opal/): Opal blocks apps with sessions, schedules and limits, with a free plan and an Opal Pro subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+- [HabitToll vs one sec](https://habittoll.com/compare/one-sec/): one sec puts a short pause, like a deep breath, in front of the apps you choose; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
+- [HabitToll vs Pushscroll](https://habittoll.com/compare/pushscroll/): Pushscroll trades exercise for app time; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
+- [HabitToll vs Brainrot](https://habittoll.com/compare/brainrot/): Brainrot blocks apps with schedules and a brain avatar that decays as you scroll; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+
+
 ## FAQ
 ### Is HabitToll free?
 Downloading it is free, and so is the blocking: walking away is always one tap and costs nothing. You only pay when an app is worth it to you: 10 minutes at the price you picked, from €0.29, as a single in-app purchase. There's no subscription.
@@ -39,7 +56,7 @@ Taxes and the store's share come off first. The rest goes to Comads OÜ, the sma
 Yes. HabitToll is on the App Store for iPhone (iOS 26.4 or later) and on Google Play for Android phones (Android 8 or later), in English, German and Spanish.
 
 ### How is it different from Screen Time?
-On iPhone, a Screen Time limit can be waved away with “One More Minute” or “Ignore Limit”. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code.
+Screen Time counts minutes: it gives apps a daily allowance and a schedule, and a passcode protects the settings, but if you set the passcode yourself, you know it. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code.
 
 ### Can I turn it off?
 Yes, you're never locked in. Remove apps, lower your price or stop blocking in Settings, or delete the app. With the settings lock on, easier changes wait 24 hours or need your partner's code.
