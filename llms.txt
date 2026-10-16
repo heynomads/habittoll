@@ -38,12 +38,15 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [A Screen Time passcode for yourself: why it's easy to get around, and what helps](https://habittoll.com/guides/screen-time-passcode/): A Screen Time passcode you set for yourself protects your iPhone settings mostly from other people. Here's what it does, how to set it on iOS 27 and iOS 26, why it rarely stops you, and three ways to make your limits stick.
 
 ## Compare
+- [The best app blockers for iPhone and Android in 2026](https://habittoll.com/compare/best-app-blockers/): Screen Time, Digital Wellbeing, Opal, one sec, ScreenZen, Brick, Pushscroll, Brainrot and HabitToll side by side: how each one limits apps, what it costs and who it suits. Facts checked in October 2026.
 - [HabitToll vs Screen Time on iPhone](https://habittoll.com/compare/screen-time/): Apple's Screen Time and HabitToll both block apps on iPhone. Screen Time gives categories a daily allowance and a schedule, protected by a passcode; HabitToll asks "worth it?" and puts a price you set on 10 minutes.
 - [HabitToll vs Digital Wellbeing on Android](https://habittoll.com/compare/digital-wellbeing/): Android's Digital Wellbeing and HabitToll both limit apps. Digital Wellbeing closes an app when its daily timer runs out; HabitToll asks "worth it?" each time and puts a price you set on 10 minutes.
 - [HabitToll vs Opal](https://habittoll.com/compare/opal/): Opal blocks apps with sessions, schedules and limits, with a free plan and an Opal Pro subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
 - [HabitToll vs one sec](https://habittoll.com/compare/one-sec/): one sec puts a short pause, like a deep breath, in front of the apps you choose; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
 - [HabitToll vs Pushscroll](https://habittoll.com/compare/pushscroll/): Pushscroll trades exercise for app time; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
 - [HabitToll vs Brainrot](https://habittoll.com/compare/brainrot/): Brainrot blocks apps with schedules and a brain avatar that decays as you scroll; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+- [HabitToll vs ScreenZen](https://habittoll.com/compare/screenzen/): ScreenZen makes you wait before an app opens and can limit how often you open it, free with optional tips; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Differences, checked October 2026.
+- [HabitToll vs Brick](https://habittoll.com/compare/brick/): Brick is a physical NFC block: tap it to block your apps, tap it again to unblock them, for $59 with no subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes, no device needed. Differences, checked October 2026.
 
 
 ## FAQ

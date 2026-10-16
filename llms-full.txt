@@ -37,12 +37,15 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [A Screen Time passcode for yourself: why it's easy to get around, and what helps](https://habittoll.com/guides/screen-time-passcode/): A Screen Time passcode you set for yourself protects your iPhone settings mostly from other people. Here's what it does, how to set it on iOS 27 and iOS 26, why it rarely stops you, and three ways to make your limits stick.
 
 ## Compare
+- [The best app blockers for iPhone and Android in 2026](https://habittoll.com/compare/best-app-blockers/): Screen Time, Digital Wellbeing, Opal, one sec, ScreenZen, Brick, Pushscroll, Brainrot and HabitToll side by side: how each one limits apps, what it costs and who it suits. Facts checked in October 2026.
 - [HabitToll vs Screen Time on iPhone](https://habittoll.com/compare/screen-time/): Apple's Screen Time and HabitToll both block apps on iPhone. Screen Time gives categories a daily allowance and a schedule, protected by a passcode; HabitToll asks "worth it?" and puts a price you set on 10 minutes.
 - [HabitToll vs Digital Wellbeing on Android](https://habittoll.com/compare/digital-wellbeing/): Android's Digital Wellbeing and HabitToll both limit apps. Digital Wellbeing closes an app when its daily timer runs out; HabitToll asks "worth it?" each time and puts a price you set on 10 minutes.
 - [HabitToll vs Opal](https://habittoll.com/compare/opal/): Opal blocks apps with sessions, schedules and limits, with a free plan and an Opal Pro subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
 - [HabitToll vs one sec](https://habittoll.com/compare/one-sec/): one sec puts a short pause, like a deep breath, in front of the apps you choose; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
 - [HabitToll vs Pushscroll](https://habittoll.com/compare/pushscroll/): Pushscroll trades exercise for app time; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
 - [HabitToll vs Brainrot](https://habittoll.com/compare/brainrot/): Brainrot blocks apps with schedules and a brain avatar that decays as you scroll; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+- [HabitToll vs ScreenZen](https://habittoll.com/compare/screenzen/): ScreenZen makes you wait before an app opens and can limit how often you open it, free with optional tips; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Differences, checked October 2026.
+- [HabitToll vs Brick](https://habittoll.com/compare/brick/): Brick is a physical NFC block: tap it to block your apps, tap it again to unblock them, for $59 with no subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes, no device needed. Differences, checked October 2026.
 
 
 ## FAQ
@@ -623,6 +626,89 @@ No. It’s a separate four-digit code, only for Screen Time.
 
 *Steps from Apple’s iPhone User Guide and Apple Support, checked on 16 October 2026.*
 
+## The best app blockers for iPhone and Android in 2026
+
+https://habittoll.com/compare/best-app-blockers/ · German: https://habittoll.com/de/vergleich/beste-app-blocker/ · Spanish: https://habittoll.com/es/comparar/mejores-bloqueadores-de-apps/
+
+[Comparison](https://habittoll.com/compare/) · Updated 17 October 2026
+
+There’s no single best app blocker, because they limit apps in different ways: a daily amount and a schedule (Screen Time, Digital Wellbeing, Opal), a pause before the app opens (one sec, ScreenZen), a physical key (Brick), exercise (Pushscroll), or a question with a price (HabitToll). Here’s what each one does, what it costs and when it fits, with facts from the stores and the makers' own pages.
+
+### At a glance
+
+| App | How it limits | Price | Platforms |
+|----|----|----|----|
+| Screen Time (Apple) | A daily amount per category and a schedule; a passcode protects the settings | Free, part of iOS | iPhone, iPad, Mac |
+| Digital Wellbeing (Google) | A daily timer per app, Focus mode and Bedtime mode | Free, part of Android | Android |
+| Opal | Focus sessions, schedules, time and open limits; a strict Hard Mode in Pro | A free plan; Opal Pro $19.99 a month or $99.99 a year | iPhone, Android, Mac |
+| one sec | A short pause, like a breath, before the app opens | Free for one app; one sec pro $6.99 a month, $19.99 a year or $99.99 once | iPhone, iPad, Mac, Android |
+| ScreenZen | A wait before the app opens, which can get longer each time, plus open limits and schedules | Free; optional tips, no subscription | iPhone, iPad, Mac, Android, Windows |
+| Brick | A physical block: tap your phone on it to block chosen apps, and again to unblock them | $59 for the device, no subscription | iPhone, Android (with NFC) |
+| Pushscroll | You earn more time with push-ups, squats or steps | A subscription after a 7-day trial: $14.99 a month or $59.99 a year | iPhone, Android |
+| Brainrot | Schedules, a focus timer and a brain avatar | A subscription, $3.99 to $49.99 depending on the plan | iPhone |
+| HabitToll | Asks “worth it?” at each open: walk away for free, or buy 10 minutes at your price | Free to download, no subscription; 10 minutes from €0.29 | iPhone, Android |
+
+US prices as listed on the App Store or the maker’s site; they differ by country.
+
+### Which kind suits you
+
+- **A daily amount, free and built in:** Screen Time on iPhone, Digital Wellbeing on Android.
+- **Focus sessions and blocks you can’t end early:** Opal.
+- **A moment to think before the app:** one sec or ScreenZen.
+- **The phone locked until you’re back at one place:** Brick.
+- **Scrolling you earn with exercise:** Pushscroll.
+- **A decision at every open, paying only when an app is worth it:** HabitToll.
+
+### The apps one by one
+
+#### Screen Time
+
+Built into every iPhone. On iOS 27, Time Allowances give categories like Social Media a daily amount and a Screen Time Schedule sets the hours; on iOS 26 the same tools are App Limits and Downtime. A Screen Time passcode stops quick changes, but if you set it yourself, you know it. [HabitToll vs Screen Time](https://habittoll.com/compare/screen-time/)
+
+#### Digital Wellbeing
+
+Built into Android. App timers give single apps a daily amount; when it runs out, the app closes and its icon dims until midnight. Focus mode pauses chosen apps on a schedule. [HabitToll vs Digital Wellbeing](https://habittoll.com/compare/digital-wellbeing/)
+
+#### Opal
+
+A focus app with sessions, schedules, time limits and open limits. Leaving a block early goes through a “Waiting Room”; Hard Mode in Opal Pro allows no unblocks except a weekly Emergency Pass. [HabitToll vs Opal](https://habittoll.com/compare/opal/)
+
+#### one sec
+
+Plays a short pause, like a breathing exercise, before a distracting app opens; then you choose. Free for one app; one sec pro covers more apps and adds stricter blocks. [HabitToll vs one sec](https://habittoll.com/compare/one-sec/)
+
+#### ScreenZen
+
+Makes you wait a few seconds before a distracting app opens, and the wait can get longer each time; it can also limit how many times a day an app opens, block on a schedule and set a daily screen-time budget. Free, supported by optional tips. [HabitToll vs ScreenZen](https://habittoll.com/compare/screenzen/)
+
+#### Brick
+
+A small NFC block you keep somewhere, like at home. Tap your phone on it to block the apps you chose, and tap it again to unblock them, so getting back in means going to the Brick. $59 for the device, with 5 Emergency Unbricks for when you can’t get to it. [HabitToll vs Brick](https://habittoll.com/compare/brick/)
+
+#### Pushscroll
+
+Time limits you top up with exercise: the camera counts push-ups or squats, or steps come from Apple Health. A subscription after a free week. [HabitToll vs Pushscroll](https://habittoll.com/compare/pushscroll/)
+
+#### Brainrot
+
+Blocks apps and websites on schedules or after a daily limit, with a focus timer and a brain avatar that decays while you scroll. iPhone only, with a subscription for all features. [HabitToll vs Brainrot](https://habittoll.com/compare/brainrot/)
+
+#### HabitToll
+
+Our app. Before an app you picked opens, it asks “worth it?” Walking away is one tap, free and counted; going in costs 10 minutes at a price you set, from €0.29, as a one-time in-app purchase. No subscription, no ads, no account. A settings lock makes easier changes wait 24 hours or need a partner’s code.
+
+### Questions
+
+#### What is the best free app blocker?
+
+Screen Time on iPhone and Digital Wellbeing on Android are free and built in. ScreenZen is free, with optional tips. one sec is free for one app. HabitToll is free to download, and walking away is always free; you pay only when you buy 10 minutes of an app.
+
+#### Which app blocker is hardest to get around?
+
+Brick, because unblocking needs the device itself, apart from 5 Emergency Unbricks. Opal’s Hard Mode allows no unblocks except a weekly Emergency Pass. Any app can still be deleted; [an app blocker you can’t just switch off](https://habittoll.com/guides/app-blocker-you-cant-turn-off/) covers the options.
+
+*Facts checked on 16 and 17 October 2026 on the App Store (US and Germany), Google Play, the makers’ sites and help pages, and Apple’s and Google’s guides. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
 ## HabitToll vs Screen Time on iPhone
 
 https://habittoll.com/compare/screen-time/ · German: https://habittoll.com/de/vergleich/bildschirmzeit/ · Spanish: https://habittoll.com/es/comparar/tiempo-de-uso/
@@ -929,6 +1015,106 @@ HabitToll has no subscription. It’s free to download; you pay only when you bu
 On iPhone, yes: when you pick what to block, the list includes websites, and HabitToll asks before those too. On Android, HabitToll blocks apps only.
 
 *Facts checked on 16 October 2026 on the App Store (US and Germany) and the developer’s pages. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs ScreenZen
+
+https://habittoll.com/compare/screenzen/ · German: https://habittoll.com/de/vergleich/screenzen/ · Spanish: https://habittoll.com/es/comparar/screenzen/
+
+[Comparison](https://habittoll.com/compare/) · Updated 17 October 2026
+
+Both slow you down before distracting apps, on iPhone and Android. ScreenZen makes you wait a few seconds before an app opens, can limit how often you open it, and is free, supported by optional tips; HabitToll asks “worth it?” each time and lets you buy 10 minutes at a price you set, or walk away for free.
+
+### At a glance
+
+|  | ScreenZen | HabitToll |
+|----|----|----|
+| What it is | A blocker for apps and websites that makes you wait before an app opens, with open limits, schedules and a daily screen-time budget | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | Free; optional tips from $5 to $40 on the US App Store, no subscription | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When you open a limited app | A short wait, which can get longer each time; then you choose, and it opens for a set time | “Worth it?”: walk away for free, or buy 10 minutes |
+| Getting past it | Wait it out; open limits and strict blocks can stop opens altogether; the settings can be locked, with a friend who can let you back in | Pay your price; 2 free emergency unlocks a month |
+| Platforms | iPhone and iPad (iOS 16.4 or later), Mac, Android (8 or later), and Windows from its website | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| Account | Not needed for the main app | None |
+| App Store privacy label | Data not linked to you: usage data and diagnostics, for analytics | Data linked to you: purchase history and a user ID, for the app’s features. Nothing used to track you |
+
+### The main difference
+
+ScreenZen slows you down with time: a wait before the app opens, which can grow with every open, short unlock sessions, and a limit on how many times a day an app opens. It does a lot for a free app: schedules, a daily screen-time budget, streaks, and a “Minimal” mode for apps like Instagram without Reels.
+
+HabitToll slows you down with a price. Each time you open an app you picked, it asks “worth it?”, outside any free minutes or free hours you set. Walking away is one tap, free and counted; going in costs 10 minutes at a price you chose, then it asks again. One asks for a few seconds, the other for a small amount you decide on.
+
+### When ScreenZen is the better fit
+
+- You want a free blocker, and a wait is enough for you.
+- You want a limit on how many times a day an app opens.
+- You want it on an iPad, a Mac or Windows too.
+
+### When HabitToll is the better fit
+
+- You’d rather decide with a small price than wait it out.
+- You want every walk-away counted, with a streak and a monthly bill.
+- You want a settings lock where easier changes wait 24 hours or need a partner’s code.
+
+### Questions
+
+#### Is ScreenZen really free?
+
+Yes. On 17 October 2026 the App Store and Google Play list it as free, with optional tips and no subscription. HabitToll is free to download too; you pay only when you buy 10 minutes of an app.
+
+#### Is there a ScreenZen alternative with a price instead of a wait?
+
+HabitToll. Before an app you picked opens, it asks “worth it?”; walking away is free, and 10 minutes cost a price you set, from €0.29, with no subscription.
+
+*Facts checked on 17 October 2026 on the App Store (US and Germany), Google Play and screenzen.co. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs Brick
+
+https://habittoll.com/compare/brick/ · German: https://habittoll.com/de/vergleich/brick/ · Spanish: https://habittoll.com/es/comparar/brick/
+
+[Comparison](https://habittoll.com/compare/) · Updated 17 October 2026
+
+Brick is a small block you keep somewhere, like at home: tap your phone on it to block the apps you chose, and tap it again to unblock them, so getting back in means going to the Brick. HabitToll needs no device: it asks “worth it?” each time and lets you buy 10 minutes at a price you set, or walk away for free.
+
+### At a glance
+
+|  | Brick | HabitToll |
+|----|----|----|
+| What it is | A physical NFC block with an app: tap to block chosen apps and websites, tap again to unblock | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | $59 for the Brick (€63.95 in Germany, VAT included); the app is free, no subscription | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When you open a blocked app | It stays blocked until you tap a Brick again | “Worth it?”: walk away for free, or buy 10 minutes |
+| Getting past it | Go back to the Brick, or use one of 5 Emergency Unbricks (more on request) | Pay your price; 2 free emergency unlocks a month |
+| Platforms | iPhone (iOS 18 or later) and Android (12 or later, with NFC); not iPad or Mac | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| Account | Needed | None |
+| App Store privacy label | Data linked to you: email, user content, a user ID, usage data and diagnostics. Nothing used to track you | Data linked to you: purchase history and a user ID, for the app’s features. Nothing used to track you |
+
+### The main difference
+
+Brick makes getting back in a walk: the block stays in one place, and only tapping it unblocks your apps. That suits whole stretches of time, like an evening or a morning of work, for people who want a hard stop they set once.
+
+HabitToll decides at each open instead. There’s no device to buy, carry or leave behind: the question comes up every time you open an app you picked, walking away is free and counted, and going in costs 10 minutes at your price, then it asks again.
+
+### When Brick is the better fit
+
+- You want your apps blocked for whole stretches, like evenings, and unblocked only at one place.
+- You like a physical object to start and end focus time.
+- You don’t mind paying once for the device.
+
+### When HabitToll is the better fit
+
+- You want a choice at each open, not a block until you’re back home.
+- You don’t want to buy or carry a device.
+- You want every walk-away counted, with a streak and a monthly bill.
+
+### Questions
+
+#### What happens if I lose my Brick?
+
+Brick’s FAQ points to the 5 Emergency Unbricks, and any Brick works with any phone. Its lifetime guarantee replaces a Brick that stops working; we found no promise about a lost one. HabitToll has nothing to lose: it’s just the app.
+
+#### Is there a Brick alternative without a device?
+
+HabitToll: no device and no subscription. It asks “worth it?” before the apps you pick open; walking away is free, and 10 minutes cost a price you set, from €0.29.
+
+*Facts checked on 17 October 2026 on the App Store (US and Germany), Google Play and getbrick.com, with its shop, FAQ and support pages. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
 
 ## HabitToll Privacy Policy
 
