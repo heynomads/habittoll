@@ -1,0 +1,51 @@
+# HabitToll
+
+> HabitToll is an app blocker for iPhone and Android. Walk away for free, or buy 10 minutes at a price you set, from €0.29. No subscription.
+
+HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estonia. Contact: help@habittoll.com.
+
+## Facts
+- Platforms: iPhone with iOS 26.4 or later (App Store); Android 8 or later (Google Play).
+- Price: free to download. Walking away ("Not worth it") is always one tap and free. An unlock is a one-time in-app purchase of 10 minutes at a price the person sets, from €0.29 (other countries see their store's price). No subscription, no ads.
+- Optional rules: each further unlock on the same day can cost double, up to 10 times the price (it starts fresh at 04:00); a monthly limit (past it, HabitToll asks before every paid unlock, and "Stop at my limit" stops paid unlocks until the 1st); free minutes each day; 2 free emergency unlocks a month; a settings lock that makes easier changes wait 24 hours or need a partner's code.
+- Friends: friends see what you pay each day and your streak, never which apps.
+- Privacy: no account. Which apps you block, and how long you use them, never leave the phone.
+- Languages: English, German, Spanish. For adults (18 and older).
+- Released: App Store on 4 October 2026, Google Play on 14 October 2026.
+
+## Get the app
+- App Store (iPhone): https://apps.apple.com/app/id6816464637
+- Google Play (Android): https://play.google.com/store/apps/details?id=com.comads.toll
+
+## Pages
+- [Home](https://habittoll.com/): what HabitToll is and how it works. German: https://habittoll.com/de/ · Spanish: https://habittoll.com/es/
+- [Help](https://habittoll.com/help/): emergencies, refunds, a new phone, what HabitToll can see.
+- [Where your money goes](https://habittoll.com/money/)
+- [Privacy policy](https://habittoll.com/privacy/)
+- [Terms of use](https://habittoll.com/terms/)
+- [Imprint](https://habittoll.com/imprint/)
+
+## FAQ
+### Is HabitToll free?
+Downloading it is free, and so is the blocking: walking away is always one tap and costs nothing. You only pay when an app is worth it to you: 10 minutes at the price you picked, from €0.29, as a single in-app purchase. There's no subscription.
+
+### How much does an unlock cost?
+You choose: from €0.29 for 10 minutes (other countries see their store's price). If you like, each further unlock on the same day costs double, up to 10 times your price, and past your monthly limit HabitToll asks before every paid unlock. You also get two free emergency unlocks a month.
+
+### Who gets the money?
+Taxes and the store's share come off first. The rest goes to Comads OÜ, the small company in Tallinn, Estonia, that makes HabitToll, and pays for building the app, its servers, support and ads. Where your money goes
+
+### Does HabitToll work on Android?
+Yes. HabitToll is on the App Store for iPhone (iOS 26.4 or later) and on Google Play for Android phones (Android 8 or later), in English, German and Spanish.
+
+### How is it different from Screen Time?
+On iPhone, a Screen Time limit can be waved away with “One More Minute” or “Ignore Limit”. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code.
+
+### Can I turn it off?
+Yes, you're never locked in. Remove apps, lower your price or stop blocking in Settings, or delete the app. With the settings lock on, easier changes wait 24 hours or need your partner's code.
+
+### What does HabitToll know about me?
+Which apps you block, and how long you use them, never leave your phone. There's no account: HabitToll never asks for your name, email, Apple Account or Google Account. Privacy policy
+
+### Who is it for?
+Adults who want to open certain apps less often, and decide each time. You must be 18 or older to use HabitToll.

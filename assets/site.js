@@ -2,13 +2,25 @@
 // Every page reads the same without it.
 (() => {
   const revealed = document.querySelectorAll('.reveal');
-  // Shown at once wherever there's no viewport to watch (a hidden tab, a renderer): never left invisible.
+  // Only what starts below the screen waits to settle in: what's on the first screen is never hidden (it's what
+  // loads first, for people and for Google's speed measure), it just plays its fill or stamp. The observer's first
+  // report says where each one starts, without forcing a layout. Shown at once wherever there's no viewport to
+  // watch (a hidden tab, a renderer): never left invisible.
   if ('IntersectionObserver' in window && window.innerHeight > 0) {
+    const placed = new WeakSet();
     const watch = new IntersectionObserver((entries) => {
       for (const entry of entries) {
-        if (!entry.isIntersecting) continue;
-        entry.target.classList.add('is-in');
-        watch.unobserve(entry.target);
+        const el = entry.target;
+        const first = !placed.has(el);
+        placed.add(el);
+        const onScreen = entry.boundingClientRect.top < (entry.rootBounds ? entry.rootBounds.height : window.innerHeight);
+        if (entry.isIntersecting || (first && onScreen)) {
+          el.classList.remove('is-out');
+          el.classList.add('is-in');
+          watch.unobserve(el);
+        } else if (first) {
+          el.classList.add('is-out');
+        }
       }
     }, { threshold: 0.3, rootMargin: '0px 0px -6% 0px' });
     revealed.forEach((el) => watch.observe(el));
