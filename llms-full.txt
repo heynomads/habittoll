@@ -35,6 +35,9 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [How to reduce your screen time: 10 practical steps](https://habittoll.com/guides/reduce-screen-time/): Ten practical steps to reduce your screen time on iPhone and Android, from reading your own numbers to limits that stick, with what's built into your phone and where an app helps.
 - [An app blocker you can't just switch off: your options](https://habittoll.com/guides/app-blocker-you-cant-turn-off/): Every app blocker can be switched off by the person who installed it. Here's how to make that slower, on iPhone and Android: someone else's passcode, a waiting time, a partner's code, or a price.
 - [A Screen Time passcode for yourself: why it's easy to get around, and what helps](https://habittoll.com/guides/screen-time-passcode/): A Screen Time passcode you set for yourself protects your iPhone settings mostly from other people. Here's what it does, how to set it on iOS 27 and iOS 26, why it rarely stops you, and three ways to make your limits stick.
+- [How to block Instagram or give it a time limit, on iPhone and Android](https://habittoll.com/guides/block-instagram/): Instagram's own Daily limit is only a reminder. To really limit Instagram, use Screen Time on iPhone or a Digital Wellbeing app timer on Android, with a passcode or PIN. The steps for each, checked October 2026.
+- [How to block TikTok or give it a time limit, on iPhone and Android](https://habittoll.com/guides/block-tiktok/): TikTok's Daily screen time ends with a code you can type to keep going. To really limit TikTok, use Screen Time on iPhone or a Digital Wellbeing app timer on Android, with a passcode or PIN. The steps for each, checked October 2026.
+- [How to limit YouTube Shorts, or block YouTube, on iPhone and Android](https://habittoll.com/guides/limit-youtube-shorts/): Adults can't switch Shorts off, but YouTube's Shorts feed limit, Show fewer Shorts and the phone's own app limits help. What each one does, and what it can't, checked October 2026.
 
 ## Compare
 - [The best app blockers for iPhone and Android in 2026](https://habittoll.com/compare/best-app-blockers/): Screen Time, Digital Wellbeing, Opal, one sec, ScreenZen, Brick, Pushscroll, Brainrot and HabitToll side by side: how each one limits apps, what it costs and who it suits. Facts checked in October 2026.
@@ -625,6 +628,239 @@ Open Settings → Screen Time → Manage Screen Time → Change Screen Time Pass
 No. It’s a separate four-digit code, only for Screen Time.
 
 *Steps from Apple’s iPhone User Guide and Apple Support, checked on 16 October 2026.*
+
+## How to block Instagram or give it a time limit, on iPhone and Android
+
+https://habittoll.com/guides/block-instagram/ · German: https://habittoll.com/de/ratgeber/instagram-sperren/ · Spanish: https://habittoll.com/es/guias/bloquear-instagram/
+
+[Guide](https://habittoll.com/guides/) · Updated 17 October 2026
+
+Instagram’s own Daily limit only reminds you; for adults it doesn’t lock the app. A limit that closes Instagram comes from the phone: Screen Time on iPhone and an app timer in Digital Wellbeing on Android, best with a passcode or PIN. If you’d rather decide at each open, HabitToll asks “worth it?” before Instagram opens.
+
+### 1. Instagram’s Daily limit (a reminder)
+
+1.  In Instagram, open your profile and tap the menu, top right.
+2.  Under How you use Instagram, tap Time management, then Daily limit.
+3.  Choose an amount of time.
+
+After that much time on Instagram in a day, a reminder appears. The app stays open: only the parent of a supervised Teen Account can block Instagram when a limit is reached. The Daily limit works in the app, not on a computer. Time management also shows how much time you spent on Instagram a day, on average, over the last 7 days.
+
+Sleep mode, in the same place, pauses notifications at the times you choose and sends an auto-reply to messages. Instagram itself stays usable.
+
+### 2. On iPhone: Screen Time
+
+**On iOS 27:**
+
+1.  Open Settings → Screen Time → Time Allowances.
+2.  Tap Social Media and set its daily time.
+3.  To see which apps a category holds, tap Manage Categories, then the category. Apple’s guide to Time Allowances says categories can be added and their apps changed.
+
+For set hours, add a Screen Time Schedule: Settings → Screen Time → Screen Time Schedule.
+
+**On iOS 26:**
+
+1.  Open Settings → Screen Time → App Limits → Add Limit.
+2.  Tap a category to see its apps, select Instagram, tap Next and set the time.
+
+Apple notes that, by default, a limit can be ignored once it’s reached. With a Screen Time passcode set, Block at Downtime keeps apps closed during Downtime.
+
+**The passcode:** Settings → Screen Time → Manage Screen Time → Lock Screen Time Settings (on iOS 26, Settings → Screen Time → Lock Screen Time Settings). If you set it yourself, you know it: [why your own passcode is easy to get around](https://habittoll.com/guides/screen-time-passcode/).
+
+### 3. On Android: an app timer
+
+1.  Open Settings → Digital Wellbeing → App timers.
+2.  Tap Set timer next to Instagram, choose the time per day and tap OK.
+
+When the time is up, Instagram closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. More on Android: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/).
+
+### 4. Instagram in the browser
+
+Instagram also works at instagram.com, and a limit on the app doesn’t always cover it.
+
+- **Android:** Digital Wellbeing has a separate site timer for Chrome. In Digital Wellbeing, tap the chart, then Chrome and Show sites, and tap Set site timer next to instagram.com.
+- **iPhone:** on iOS 27, a Time Allowance covers an app’s website when the app declares that website as its own. On iOS 26 you can block the address completely: Settings → Screen Time → Content & Privacy Restrictions → App Store, Media, Web, & Games → Web Content → Limit Adult Websites, then Add Website under Never Allow.
+
+### When a limit is too easy to switch off
+
+If you keep dismissing the reminder or deleting the timer, a question with a price is a middle way:
+
+- HabitToll asks “worth it?” before Instagram opens, and on iPhone before instagram.com too.
+- Walking away is one tap and free.
+- Going in costs 10 minutes at a price you set, from €0.29; then it asks again.
+- You can block always, or only at the times you pick, and give a group of apps, like Instagram and TikTok, free minutes a day or free hours.
+- Its settings lock makes easier changes wait 24 hours or need a partner’s code.
+
+### Which to use
+
+| You want | Use |
+|----|----|
+| A nudge after a while on Instagram | Instagram’s Daily limit |
+| A daily amount that closes the app | Screen Time (iPhone) or an app timer (Android) |
+| Instagram closed at night or at work | A Screen Time Schedule (Downtime on iOS 26), or Focus mode on Android |
+| A decision at every open, not a countdown | HabitToll |
+
+### Questions
+
+#### Why doesn’t Instagram’s daily limit stop me?
+
+For adults it’s a reminder: it appears after the time you chose, and the app stays open. Only the parent of a supervised Teen Account can block Instagram at the limit. For a limit that closes the app, use Screen Time on iPhone or an app timer on Android.
+
+#### Can I block Instagram only at certain hours?
+
+Yes. On iPhone, a Screen Time Schedule sets when categories can be used (on iOS 26, Downtime with Block at Downtime and a passcode). On Android, Focus mode pauses Instagram on a schedule. HabitToll can ask only at the times you pick.
+
+*Steps from Instagram’s Help Center, Apple’s iPhone User Guide for iOS 27 and iOS 26, and Google’s Android help for Digital Wellbeing, checked on 17 October 2026. Menus can differ by app version and phone.*
+
+## How to block TikTok or give it a time limit, on iPhone and Android
+
+https://habittoll.com/guides/block-tiktok/ · German: https://habittoll.com/de/ratgeber/tiktok-sperren/ · Spanish: https://habittoll.com/es/guias/bloquear-tiktok/
+
+[Guide](https://habittoll.com/guides/) · Updated 17 October 2026
+
+TikTok’s own Daily screen time tells you when your time is up, and for adults a code on the screen lets you carry on. A limit that closes TikTok comes from the phone: Screen Time on iPhone and an app timer in Digital Wellbeing on Android, best with a passcode or PIN. If you’d rather decide at each open, HabitToll asks “worth it?” before TikTok opens.
+
+### 1. TikTok’s Daily screen time
+
+1.  In TikTok, open your profile and tap the menu ☰.
+2.  Tap Settings and privacy → Time and well-being → Screen time.
+3.  Turn on Daily screen time and choose a limit.
+
+When you reach it, TikTok tells you, and you either close the app or enter the code shown on the screen to go back. The limit belongs to your account: it applies in the app and on tiktok.com, the time counts both together, and on the web you can set a different limit for each day.
+
+In the same place, Sleep hours mute push notifications at night and show a reminder to take a break, and weekly screen time updates compare your week with the one before.
+
+### 2. On iPhone: Screen Time
+
+**On iOS 27:**
+
+1.  Open Settings → Screen Time → Time Allowances.
+2.  Tap Social Media and set its daily time.
+3.  To see which apps a category holds, tap Manage Categories, then the category. Apple’s guide to Time Allowances says categories can be added and their apps changed.
+
+For set hours, add a Screen Time Schedule: Settings → Screen Time → Screen Time Schedule.
+
+**On iOS 26:**
+
+1.  Open Settings → Screen Time → App Limits → Add Limit.
+2.  Tap a category to see its apps, select TikTok, tap Next and set the time.
+
+Apple notes that, by default, a limit can be ignored once it’s reached. With a Screen Time passcode set, Block at Downtime keeps apps closed during Downtime.
+
+**The passcode:** Settings → Screen Time → Manage Screen Time → Lock Screen Time Settings (on iOS 26, Settings → Screen Time → Lock Screen Time Settings). If you set it yourself, you know it: [why your own passcode is easy to get around](https://habittoll.com/guides/screen-time-passcode/).
+
+### 3. On Android: an app timer
+
+1.  Open Settings → Digital Wellbeing → App timers.
+2.  Tap Set timer next to TikTok, choose the time per day and tap OK.
+
+When the time is up, TikTok closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. More on Android: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/).
+
+### 4. TikTok in the browser
+
+- **TikTok’s own limit** follows your account to tiktok.com.
+- **Android:** Digital Wellbeing has a separate site timer for Chrome. In Digital Wellbeing, tap the chart, then Chrome and Show sites, and tap Set site timer next to tiktok.com.
+- **iPhone:** on iOS 27, a Time Allowance covers an app’s website when the app declares that website as its own. On iOS 26 you can block the address completely: Settings → Screen Time → Content & Privacy Restrictions → App Store, Media, Web, & Games → Web Content → Limit Adult Websites, then Add Website under Never Allow.
+
+### When a limit is too easy to get past
+
+If you keep typing the code or deleting the timer, a question with a price is a middle way:
+
+- HabitToll asks “worth it?” before TikTok opens, and on iPhone before tiktok.com too.
+- Walking away is one tap and free.
+- Going in costs 10 minutes at a price you set, from €0.29; then it asks again.
+- You can block always, or only at the times you pick, and give a group of apps, like TikTok and Instagram, free minutes a day or free hours.
+- Its settings lock makes easier changes wait 24 hours or need a partner’s code.
+
+### Which to use
+
+| You want | Use |
+|----|----|
+| A reminder after a while on TikTok | TikTok’s Daily screen time |
+| A daily amount that closes the app | Screen Time (iPhone) or an app timer (Android) |
+| TikTok closed at night or at work | A Screen Time Schedule (Downtime on iOS 26), or Focus mode on Android |
+| A decision at every open, not a countdown | HabitToll |
+
+### Questions
+
+#### What is the TikTok screen time passcode?
+
+For adults, it’s the code TikTok shows on the screen when you reach your limit: type it to keep watching. There’s no secret code to remember. With Family Pairing, a parent gets a one-time code instead.
+
+#### Why doesn’t my TikTok time limit stop me?
+
+For adults it’s a reminder that the code on the screen gets you past. For a limit that closes the app, use Screen Time on iPhone or an app timer on Android, with a passcode or PIN that someone else keeps.
+
+*Steps from TikTok’s support pages, Apple’s iPhone User Guide for iOS 27 and iOS 26, and Google’s Android help for Digital Wellbeing, checked on 17 October 2026. Menus can differ by app version, region and phone.*
+
+## How to limit YouTube Shorts, or block YouTube, on iPhone and Android
+
+https://habittoll.com/guides/limit-youtube-shorts/ · German: https://habittoll.com/de/ratgeber/youtube-shorts-begrenzen/ · Spanish: https://habittoll.com/es/guias/limitar-youtube-shorts/
+
+[Guide](https://habittoll.com/guides/) · Updated 17 October 2026
+
+There’s no switch that turns Shorts off for adults. YouTube’s Shorts feed limit, which can even be set to zero, ends with a reminder you can dismiss, and Show fewer Shorts only shows fewer. Screen Time and Digital Wellbeing can limit the whole YouTube app, long videos included, but not Shorts alone; so does HabitToll, which asks before YouTube opens.
+
+### 1. YouTube’s Shorts feed limit
+
+1.  In the YouTube app, tap You, then Settings.
+2.  Tap Time management → Shorts feed limit.
+3.  Choose a time. Zero is one of the options.
+
+When you reach it, a reminder appears; for adults it can be dismissed, and the limit ignored. Only on supervised kid and teen accounts does the limit stop Shorts scrolling for the rest of the day, set by a parent in Family Center.
+
+### 2. Fewer Shorts on Home
+
+On the Home feed, tap More (⋮) at the top of a row of Shorts and choose Show fewer Shorts. Fewer Shorts are recommended there; they don’t disappear. To undo it, go to My Activity → Other activity. Not interested and Don’t recommend channel tune the rest of what YouTube suggests.
+
+Deleting your watch history and turning it off removes video recommendations from Home, YouTube says. What it does to the Shorts feed, YouTube doesn’t say.
+
+### 3. Reminders to stop watching
+
+In the app’s Settings, turn on Remind me to take a break, or Remind me when it’s bedtime. Both are off by default for adults.
+
+### 4. Limit the whole YouTube app with the phone
+
+- **iPhone, iOS 27:** Settings → Screen Time → Time Allowances. Tap the category YouTube counts toward and set its daily time; Manage Categories shows which apps each category holds.
+- **iPhone, iOS 26:** Settings → Screen Time → App Limits → Add Limit. Tap a category, select YouTube, tap Next and set the time.
+- **Android:** Settings → Digital Wellbeing → App timers. Tap Set timer next to YouTube, choose the time and tap OK.
+
+These limit all of YouTube, long videos included: Apple and Google describe limits for apps, categories and websites, not for part of an app. A Screen Time passcode or an App limits PIN keeps the limit from being undone in a second: [how to block apps on iPhone](https://habittoll.com/guides/block-apps-on-iphone/), [on Android](https://habittoll.com/guides/block-apps-on-android/).
+
+### 5. YouTube in the browser
+
+- **Android:** Digital Wellbeing has a separate site timer for Chrome. In Digital Wellbeing, tap the chart, then Chrome and Show sites, and tap Set site timer next to youtube.com.
+- **iPhone:** on iOS 27, a Time Allowance covers an app’s website when the app declares that website as its own. On iOS 26 you can block youtube.com completely: Settings → Screen Time → Content & Privacy Restrictions → App Store, Media, Web, & Games → Web Content → Limit Adult Websites, then Add Website under Never Allow.
+
+### When you want to decide each time
+
+HabitToll asks “worth it?” before the YouTube app opens. Like the phone’s own tools, it works on the whole app, not on Shorts alone.
+
+- Walking away is one tap and free.
+- Going in costs 10 minutes at a price you set, from €0.29; then it asks again.
+- You can block always, or only at the times you pick, and give a group of apps free minutes a day or free hours, like 20:00 to 21:00.
+- On iPhone it can ask before youtube.com too.
+- Its settings lock makes easier changes wait 24 hours or need a partner’s code.
+
+### Which to use
+
+| You want | Use |
+|----|----|
+| A nudge after a while of Shorts | YouTube’s Shorts feed limit |
+| Fewer Shorts on Home | Show fewer Shorts |
+| A daily amount for all of YouTube | Screen Time (iPhone) or an app timer (Android) |
+| A decision every time YouTube opens | HabitToll |
+
+### Questions
+
+#### Can I turn off YouTube Shorts completely?
+
+Not on an adult account, as of October 2026. A Shorts feed limit of zero shows a reminder you can dismiss, and Show fewer Shorts only reduces them. On supervised kid and teen accounts, a parent can set the Shorts limit to zero.
+
+#### Can Screen Time block only Shorts and keep the rest of YouTube?
+
+Not in a way Apple or Google describe: Screen Time and Digital Wellbeing limit apps, categories or websites, so a limit on YouTube covers all of YouTube, long videos included.
+
+*Steps from YouTube Help, the YouTube blog, Apple’s iPhone User Guide for iOS 27 and iOS 26, and Google’s Android help for Digital Wellbeing, checked on 17 October 2026. Menus can differ by app version and phone.*
 
 ## The best app blockers for iPhone and Android in 2026
 
