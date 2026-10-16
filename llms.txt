@@ -27,6 +27,7 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [Privacy policy](https://habittoll.com/privacy/)
 - [Terms of use](https://habittoll.com/terms/)
 - [Imprint](https://habittoll.com/imprint/)
+- [Every page in full](https://habittoll.com/llms-full.txt): Help, the money page, the press kit, the guides, the comparisons and the legal pages, in one file.
 
 ## Guides
 - [How to block apps on iPhone, for certain hours or for good](https://habittoll.com/guides/block-apps-on-iphone/): Block apps on iPhone with Screen Time: Time Allowances for a daily amount, a Screen Time Schedule for set hours, and a passcode for the settings. With the iOS 26 steps, and what to do when a hard block is too strict.

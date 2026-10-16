@@ -1,0 +1,1329 @@
+# HabitToll
+
+> HabitToll is an app blocker for iPhone and Android. Walk away for free, or buy 10 minutes at a price you set, from €0.29. No subscription.
+
+HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estonia. Contact: help@habittoll.com.
+
+## Facts
+- Platforms: iPhone with iOS 26.4 or later (App Store); Android 8 or later (Google Play).
+- Price: free to download. Walking away ("Not worth it") is always one tap and free. An unlock is a one-time in-app purchase of 10 minutes at a price the person sets, from €0.29 (other countries see their store's price). No subscription, no ads.
+- Optional rules: each further unlock on the same day can cost double, up to 10 times the price (it starts fresh at 04:00); a monthly limit (past it, HabitToll asks before every paid unlock, and "Stop at my limit" stops paid unlocks until the 1st); free minutes each day; 2 free emergency unlocks a month; a settings lock that makes easier changes wait 24 hours or need a partner's code.
+- Friends: friends see what you pay each day and your streak, never which apps.
+- Privacy: no account. Which apps you block, and how long you use them, never leave the phone.
+- Languages: English, German, Spanish. For adults (18 and older).
+- Released: App Store on 4 October 2026, Google Play on 14 October 2026.
+
+## Get the app
+- App Store (iPhone): https://apps.apple.com/app/id6816464637
+- Google Play (Android): https://play.google.com/store/apps/details?id=com.comads.toll
+- TikTok: https://www.tiktok.com/@habittoll
+- Instagram: https://www.instagram.com/habittoll
+
+## Pages
+- [Home](https://habittoll.com/): what HabitToll is and how it works. German: https://habittoll.com/de/ · Spanish: https://habittoll.com/es/
+- [Help](https://habittoll.com/help/): emergencies, refunds, a new phone, what HabitToll can see.
+- [Where your money goes](https://habittoll.com/money/)
+- [Press kit](https://habittoll.com/press/): facts to quote, pictures to download (ZIP per language), press contact help@habittoll.com.
+- [Privacy policy](https://habittoll.com/privacy/)
+- [Terms of use](https://habittoll.com/terms/)
+- [Imprint](https://habittoll.com/imprint/)
+
+## Guides
+- [How to block apps on iPhone, for certain hours or for good](https://habittoll.com/guides/block-apps-on-iphone/): Block apps on iPhone with Screen Time: Time Allowances for a daily amount, a Screen Time Schedule for set hours, and a passcode for the settings. With the iOS 26 steps, and what to do when a hard block is too strict.
+- [How to block apps on Android, for certain hours or for good](https://habittoll.com/guides/block-apps-on-android/): Block apps on Android with Digital Wellbeing: an app timer for a daily limit, Focus mode for set hours, Bedtime mode for the night, and an App limits PIN. Plus what to do when you keep switching it off.
+- [How to stop doomscrolling, especially at night](https://habittoll.com/guides/stop-doomscrolling/): Practical ways to stop doomscrolling on iPhone and Android: a cut-off time for the evening, fewer notifications, a pause before the apps that pull you in, and a plan for what's worth it.
+- [How to reduce your screen time: 10 practical steps](https://habittoll.com/guides/reduce-screen-time/): Ten practical steps to reduce your screen time on iPhone and Android, from reading your own numbers to limits that stick, with what's built into your phone and where an app helps.
+- [An app blocker you can't just switch off: your options](https://habittoll.com/guides/app-blocker-you-cant-turn-off/): Every app blocker can be switched off by the person who installed it. Here's how to make that slower, on iPhone and Android: someone else's passcode, a waiting time, a partner's code, or a price.
+- [A Screen Time passcode for yourself: why it's easy to get around, and what helps](https://habittoll.com/guides/screen-time-passcode/): A Screen Time passcode you set for yourself protects your iPhone settings mostly from other people. Here's what it does, how to set it on iOS 27 and iOS 26, why it rarely stops you, and three ways to make your limits stick.
+
+## Compare
+- [HabitToll vs Screen Time on iPhone](https://habittoll.com/compare/screen-time/): Apple's Screen Time and HabitToll both block apps on iPhone. Screen Time gives categories a daily allowance and a schedule, protected by a passcode; HabitToll asks "worth it?" and puts a price you set on 10 minutes.
+- [HabitToll vs Digital Wellbeing on Android](https://habittoll.com/compare/digital-wellbeing/): Android's Digital Wellbeing and HabitToll both limit apps. Digital Wellbeing closes an app when its daily timer runs out; HabitToll asks "worth it?" each time and puts a price you set on 10 minutes.
+- [HabitToll vs Opal](https://habittoll.com/compare/opal/): Opal blocks apps with sessions, schedules and limits, with a free plan and an Opal Pro subscription; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+- [HabitToll vs one sec](https://habittoll.com/compare/one-sec/): one sec puts a short pause, like a deep breath, in front of the apps you choose; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
+- [HabitToll vs Pushscroll](https://habittoll.com/compare/pushscroll/): Pushscroll trades exercise for app time; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices, how each one works, and who each suits, checked October 2026.
+- [HabitToll vs Brainrot](https://habittoll.com/compare/brainrot/): Brainrot blocks apps with schedules and a brain avatar that decays as you scroll; HabitToll asks "worth it?" and puts a price you set on 10 minutes. Prices and differences, checked October 2026.
+
+
+## FAQ
+### Is HabitToll free?
+Downloading it is free, and so is the blocking: walking away is always one tap and costs nothing. You only pay when an app is worth it to you: 10 minutes at the price you picked, from €0.29, as a single in-app purchase. There's no subscription.
+
+### How much does an unlock cost?
+You choose: from €0.29 for 10 minutes (other countries see their store's price). If you like, each further unlock on the same day costs double, up to 10 times your price, and past your monthly limit HabitToll asks before every paid unlock. You also get two free emergency unlocks a month.
+
+### Who gets the money?
+Taxes and the store's share come off first. The rest goes to Comads OÜ, the small company in Tallinn, Estonia, that makes HabitToll, and pays for building the app, its servers, support and ads. Where your money goes
+
+### Does HabitToll work on Android?
+Yes. HabitToll is on the App Store for iPhone (iOS 26.4 or later) and on Google Play for Android phones (Android 8 or later), in English, German and Spanish.
+
+### How is it different from Screen Time?
+Screen Time counts minutes: it gives apps a daily allowance and a schedule, and a passcode protects the settings, but if you set the passcode yourself, you know it. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code.
+
+### Can I turn it off?
+Yes, you're never locked in. Remove apps, lower your price or stop blocking in Settings, or delete the app. With the settings lock on, easier changes wait 24 hours or need your partner's code.
+
+### What does HabitToll know about me?
+Which apps you block, and how long you use them, never leave your phone. There's no account: HabitToll never asks for your name, email, Apple Account or Google Account. Privacy policy
+
+### Who is it for?
+Adults who want to open certain apps less often, and decide each time. You must be 18 or older to use HabitToll.
+
+---
+
+The English text of every page follows, as on habittoll.com. Each page is also in German and Spanish, at the addresses under its title.
+
+## Help
+
+https://habittoll.com/help/ · German: https://habittoll.com/de/hilfe/ · Spanish: https://habittoll.com/es/ayuda/
+
+The questions people ask most. Anything else: <help@habittoll.com>
+
+### I need an app right now
+
+Tap **Emergency?** on the pay screen (on Android, on the block screen). It opens free for 10 minutes, twice a month, and works even when your limit is reached.
+
+Keep Phone, Messages and Maps off your list.
+
+### It locked too early
+
+iOS sometimes locks an app before your minutes are up. If it locks a paid unlock again less than 9 minutes after it started, your next unlock is free. Nothing to do.
+
+On Android, an unlock is 10 minutes of use within the hour, and only time with the app in front counts. After the hour it locks, even with minutes left.
+
+Paid, but nothing opened? In HabitToll: Settings → Help → It locked too early → Restore purchases.
+
+### Why is it locked until the 1st?
+
+**Stop at my limit** is on, and your monthly limit is reached. Emergency unlocks still work. To change it, turn off Stop at my limit in Settings → Monthly limit.
+
+### It stopped blocking
+
+Some Android phones stop apps in the background to save battery. In HabitToll: Settings → Help → It stopped blocking → Keep it running. Then check the three switches on Home.
+
+### How do I stop?
+
+You're never locked in. Remove apps or lower your price in Settings; with the settings lock on, easier changes wait 24 hours. Or remove HabitToll's Screen Time access in the iPhone's Settings (on Android: its usage access in Android Settings), or delete the app.
+
+### Refunds
+
+On iPhone, Apple decides refunds. In HabitToll: Settings → Help → Refunds → Request a refund. Or at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+
+On Android, Google Play decides. Find the purchase in your [Google Play order history](https://play.google.com/store/account/orderhistory), then tap Request a refund.
+
+A refund never locks you out and never raises your price.
+
+### New phone?
+
+No account needed. Restore your new iPhone from an iCloud or computer backup, or your new Android phone from your Google backup: your history, streak and prepaid unlocks come with it.
+
+On iPhone, if your apps are missing, pick them again in Settings. On Android, open HabitToll and tap “Blocking is paused. Tap to fix.” to turn the three switches on again.
+
+### What HabitToll can see
+
+On iPhone, Apple gives HabitToll only coded tokens for the apps you block; iOS itself draws their names and icons. On Android, usage access shows HabitToll which app is in front. Which apps you block, and how long you use them, never leave your phone. [Privacy policy](https://habittoll.com/privacy/)
+
+### What you need
+
+An iPhone with iOS 26.4 or later, and Screen Time access for HabitToll. Or an Android phone with Android 8 or later, and usage access and display over other apps for HabitToll. It asks for them during setup.
+
+Write to us
+
+[help@habittoll.com](mailto:help@habittoll.com)
+
+We usually answer within two working days. Never send us your passcode or partner code.
+
+## Where your money goes
+
+https://habittoll.com/money/ · German: https://habittoll.com/de/geld/ · Spanish: https://habittoll.com/es/dinero/
+
+Your unlocks pay for HabitToll. Here is where the money goes.
+
+### From every unlock
+
+Taxes and the store's share come off first: VAT goes to the state, and Apple or Google keep their share for the store and the payment.
+
+The rest goes to Comads OÜ, the small company in Tallinn, Estonia, that makes HabitToll. It pays for building the app, its servers and support, and ads that bring HabitToll to more people.
+
+### You decide what it costs
+
+You pick the price of 10 minutes and a monthly limit. Walking away is free, two emergency unlocks a month are free, and the best days cost nothing.
+
+Our pledge
+
+### Half of HabitToll's profit funds tree planting with [Tree-Nation](https://tree-nation.com/).
+
+Profit is what's left after all HabitToll's costs, including the ads that bring it to more people, so while we grow and make up earlier losses, it may be small or zero. We pay at least once a year and publish the numbers and the receipt here after every payment.
+
+### Why not with every unlock?
+
+Because an unlock should cost you something. If part of every unlock went to trees, paying could start to feel like doing good, and HabitToll would stop helping you use your phone less. So an unlock buys you 10 minutes, not a donation, and we fund the trees from our profit instead.
+
+### So far
+
+From HabitToll's profit so far  
+€0
+
+Next report  
+June 2027
+
+### How we count
+
+**Profit** is HabitToll's own result for the calendar year: what Apple and Google pay us for HabitToll, minus everything HabitToll costs, including building it, servers, support, ads, and its share of our company's shared costs (split by revenue). Before income tax.
+
+A year with a loss means nothing to pay for that year, and earlier losses are made up first: we pay half of what's left after that.
+
+We pay at least once a year: half of a year's profit by the end of the following June, once our accounts are done, and earlier or more often when we can. After every payment we publish here what HabitToll earned and spent, the amount, and Tree-Nation's receipt.
+
+Trees count as funded until Tree-Nation confirms they are planted.
+
+If we ever change this pledge, it changes only for years that haven't started, and we say so here first.
+
+### Who we are
+
+Comads OÜ, Ahtri tn 12, 15551 Tallinn, Estonia. Registry code 17276947.
+
+[Imprint](https://habittoll.com/imprint/)
+
+## For the press
+
+https://habittoll.com/press/ · German: https://habittoll.com/de/presse/ · Spanish: https://habittoll.com/es/prensa/
+
+Facts, pictures and words for articles, reviews and lists. Use them freely when you write about HabitToll.
+
+### In one sentence
+
+HabitToll is an app blocker for iPhone and Android: before an app you picked opens, it asks “Worth it?” Walking away is free; 10 minutes cost a price you set, from €0.29.
+
+### In a paragraph
+
+HabitToll is an app blocker for iPhone and Android, made by Comads OÜ in Tallinn, Estonia. People pick the apps they open too often, and from then on each one asks “Worth it?” before it opens. Walking away takes one tap and is counted. Going in costs 10 minutes at a price the person set, from €0.29, as a one-time in-app purchase: there is no subscription and there are no ads. A settings lock can make easier changes wait 24 hours or need a partner's code, and friends see what someone pays each day and their streak, never which apps.
+
+### Facts
+
+Name  
+HabitToll; in the stores “HabitToll – Pay to Scroll”
+
+What it is  
+An app blocker that asks “Worth it?” before the apps you pick open
+
+Made by  
+Comads OÜ, Tallinn, Estonia
+
+Works on  
+iPhone with iOS 26.4 or later, Android 8 or later
+
+App Store  
+Since 4 October 2026
+
+Google Play  
+Since 14 October 2026
+
+Price  
+Free to download. No subscription, no ads.
+
+An unlock  
+10 minutes at the price you set, from €0.29 (in other countries, the store's price)
+
+Always free  
+Walking away, the blocking itself, your stats and monthly bill, friends, and 2 emergency unlocks a month
+
+Languages  
+English, German, Spanish
+
+Age  
+18+
+
+Category  
+Productivity
+
+Press contact  
+<help@habittoll.com>
+
+As of 16 October 2026.
+
+### How it works
+
+1.  You pick the apps you open too often, and a price for 10 minutes, from €0.29.
+2.  When you open one of them, HabitToll asks “Worth it?”
+3.  Not worth it: one tap, free, and it counts as a walk-away. Worth it: 10 minutes at your price, then it asks again.
+4.  The home screen shows how often you walked away this month, your streak and your monthly bill.
+
+### Getting the details right
+
+- An unlock is a purchase of time: 10 minutes, when an app is worth it to the person. Walking away is always free.
+- A normal unlock costs the price the person chose. The stores list much higher prices because each further unlock on the same day can cost double, up to 10 times that price, for people who turn that on.
+- Past their monthly limit, HabitToll asks before every paid unlock. With “Stop at my limit” on, nothing can be bought until the 1st.
+- The “9 years” in the sign-up is each person's own estimate from their answers, not a result of using HabitToll.
+- Which apps someone blocks, and how long they use them, never leave the phone. Friends see what someone pays each day and their streak, never which apps.
+- HabitToll is for adults. It isn't a parental control app.
+
+### Pictures
+
+- [![The block screen asks “Worth it?”](https://habittoll.com/assets/press/en/1-asks-480.jpg)](https://habittoll.com/assets/press/en/1-asks.jpg)
+- [![The ticket: 10 minutes, only when it's worth it](https://habittoll.com/assets/press/en/2-worth-it-480.jpg)](https://habittoll.com/assets/press/en/2-worth-it.jpg)
+- [![The home screen: 91 times you walked away this month](https://habittoll.com/assets/press/en/3-walk-away-480.jpg)](https://habittoll.com/assets/press/en/3-walk-away.jpg)
+- [![The streak: 12 days on your terms](https://habittoll.com/assets/press/en/6-days-480.jpg)](https://habittoll.com/assets/press/en/6-days.jpg)
+
+[Download the press kit (ZIP, 8.3 MB)](https://habittoll.com/assets/press/habittoll-press-kit-en.zip)
+
+The app icon, the logo, all 16 store screenshots in English and these words as text. Also in [German](https://habittoll.com/assets/press/habittoll-press-kit-de.zip) and [Spanish](https://habittoll.com/assets/press/habittoll-press-kit-es.zip).
+
+[App icon (PNG, 1024 × 1024)](https://habittoll.com/assets/press/habittoll-icon-1024.png) · [Logo (PNG, transparent)](https://habittoll.com/assets/press/habittoll-logo.png) · [Logo for dark backgrounds](https://habittoll.com/assets/press/habittoll-logo-dark.png)
+
+Free to use when you write about HabitToll.
+
+### Who makes it
+
+HabitToll is made by Comads OÜ, a small company in Tallinn, Estonia.
+
+[Imprint](https://habittoll.com/imprint/) · [Where your money goes](https://habittoll.com/money/)
+
+Press questions
+
+[help@habittoll.com](mailto:help@habittoll.com)
+
+We usually answer within two working days.
+
+## How to block apps on iPhone, for certain hours or for good
+
+https://habittoll.com/guides/block-apps-on-iphone/ · German: https://habittoll.com/de/ratgeber/apps-sperren-iphone/ · Spanish: https://habittoll.com/es/guias/bloquear-apps-iphone/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+On iPhone, Screen Time does it. On iOS 27, Time Allowances give categories like Social Media a daily amount, and a Screen Time Schedule sets the hours when apps can be used; on iOS 26 the same tools are called App Limits and Downtime. A Screen Time passcode protects the settings. If you’d rather decide each time, an app like HabitToll asks first.
+
+### 1. Turn on Screen Time
+
+Open Settings → Screen Time → Manage Screen Time, and tap Turn On App & Website Activity. Your daily average and the apps you use most then show under Screen Time.
+
+### 2. Give a category a daily amount (Time Allowances)
+
+1.  Open Settings → Screen Time → Time Allowances.
+2.  Set a daily total for the phone with the slider, or the minus and plus buttons.
+3.  Tap a category, like Social Media, Entertainment or Games, and set its own daily time.
+4.  To add a category, tap Manage Categories, then the add button.
+
+Apps in a category work until that category’s allowance or the daily total runs out. If you only want the allowances to apply during certain hours, turn on Match Screen Time Schedule.
+
+### 3. Set the hours for apps (Screen Time Schedule)
+
+1.  Open Settings → Screen Time → Screen Time Schedule, and turn on Schedule.
+2.  Tap Add Schedule, choose the days, and tap Done.
+3.  Tap a time window, like Evening, to change its start and end, and choose which categories are allowed in it.
+
+Apps under Always Allowed work at any time. Add them in Settings → Screen Time → Always Allowed: people you always want to reach, and apps like Phone or Maps.
+
+### 4. Protect the settings with a passcode
+
+Open Settings → Screen Time → Manage Screen Time → Lock Screen Time Settings, and enter a four-digit code twice. From then on, the code is needed to change the Screen Time settings you chose. Set up Screen Time Passcode Recovery too, so a forgotten code can be reset with an Apple Account.
+
+If you set the code yourself, you know it, so it stops other people more than it stops you: [why your own passcode is easy to get around](https://habittoll.com/guides/screen-time-passcode/).
+
+### On iOS 26
+
+The same tools have their earlier names:
+
+- **App Limits** (Settings → Screen Time → App Limits → Add Limit): choose categories, or tap a category to pick single apps, tap Next, and set the time. Customize Days gives each day its own time. Apple notes that a limit can be ignored once it’s reached, unless you block it.
+- **Downtime** (Settings → Screen Time → Downtime): turn on Scheduled, every day or by day, with start and end times. With a Screen Time passcode set, Block at Downtime appears: then apps outside Always Allowed can’t be opened during Downtime, and show dimmed with an hourglass.
+- **Passcode**: Settings → Screen Time → Lock Screen Time Settings.
+
+### When a hard block is too much
+
+If you keep switching Screen Time off because a hard block feels too strict, or keep giving yourself more time, there’s a middle way: a pause with a price.
+
+- HabitToll asks “worth it?” before the apps you pick open, single apps or websites.
+- Walking away is one tap and free.
+- Going in costs 10 minutes at a price you set, from €0.29.
+- You can block always, or only at the times you pick, and give a group of apps free minutes a day or free hours, like 20:00 to 21:00.
+- Its settings lock makes easier changes wait 24 hours or need a partner’s code.
+
+### Which to use
+
+| You want | Use |
+|----|----|
+| A daily amount for social media or games | Time Allowances (App Limits on iOS 26) |
+| Apps closed at night or at work | A Screen Time Schedule (Downtime on iOS 26) |
+| Settings you can’t change in the moment | A Screen Time passcode someone else keeps |
+| A decision at every open, not a countdown | HabitToll |
+
+### Questions
+
+#### Can I block a single app instead of a whole category?
+
+On iOS 26, yes: in App Limits → Add Limit, tap a category and pick the app inside it. On iOS 27, Apple describes Time Allowances by category. HabitToll lets you pick single apps and websites on both.
+
+#### What changed in iOS 27?
+
+Apple renamed and rebuilt the tools: App Limits are now Time Allowances, set by category, and Downtime is now part of the Screen Time Schedule, made of time windows. The passcode stayed: Lock Screen Time Settings.
+
+*Steps from Apple’s iPhone User Guide for iOS 27 and iOS 26, checked on 16 October 2026.*
+
+## How to block apps on Android, for certain hours or for good
+
+https://habittoll.com/guides/block-apps-on-android/ · German: https://habittoll.com/de/ratgeber/apps-sperren-android/ · Spanish: https://habittoll.com/es/guias/bloquear-apps-android/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+On Android, Digital Wellbeing does it: an app timer for a daily limit, Focus mode to pause apps during set hours, Bedtime mode for the night, and a PIN to protect your timers. A PIN you set yourself is one you know, so if you want a decision in front of each open instead, an app like HabitToll adds one.
+
+### 1. Give an app a daily limit (app timer)
+
+1.  Open Settings → Digital Wellbeing → App timers.
+2.  Tap Set timer next to the app, choose the time per day, and tap OK.
+
+When the time is up, the app closes and its icon dims for the rest of the day. Timers reset at midnight. To use the app again before then, open the same screen and delete the timer.
+
+### 2. Pause apps during set hours (Focus mode)
+
+1.  Open Settings → Digital Wellbeing → Focus mode.
+2.  Choose the apps to pause.
+3.  Tap Turn on now, or Set a schedule with days and times.
+
+While Focus mode is on, you can’t use those apps and you get no notifications from them. Take a break lets you unpause them for a time you choose.
+
+### 3. Wind down at night (Bedtime mode)
+
+Open Settings → Digital Wellbeing → Bedtime mode → Bedtime routine, and choose Use a schedule or Turn on while charging. Bedtime mode can turn on Do Not Disturb and change the screen, for example to Grayscale. It’s made for quieter nights; to pause apps at night, pair it with Focus mode.
+
+### 4. Protect your timers with a PIN
+
+Digital Wellbeing can lock app timers behind a PIN: open Settings → Digital Wellbeing → App limits → App limits PIN, turn on PIN for app time limits, confirm with your phone’s screen lock, and choose a four-digit PIN. Changing a timer then needs the PIN.
+
+As with the iPhone’s Screen Time passcode, a PIN you choose yourself is one you know. Let someone else choose it, or use a waiting time instead.
+
+### 5. When you keep switching it off
+
+HabitToll on Android puts a question instead of a timer in front of the apps you pick. It asks “worth it?”: walking away is free, and going in costs 10 minutes at a price you set, from €0.29. Its settings lock makes easier changes, like removing an app or lowering the price, wait 24 hours or need a partner’s code. You can also give a group of apps free minutes a day or free hours, like 20:00 to 21:00.
+
+### What HabitToll needs on Android
+
+- Usage access, to see which app is in front.
+- Display over other apps, to show the “worth it?” screen.
+- Notifications, to tell you when time is up (optional).
+
+Which apps you block, and how long you use them, never leave your phone.
+
+### Questions
+
+#### Do app timers work on Samsung and other phones?
+
+Phones from other makers have Digital Wellbeing too, but the menus can look different. Google notes that the steps can vary by device.
+
+#### What happens at midnight?
+
+App timers reset, and apps that were closed by their timer open again.
+
+*Steps from Google’s Android and Pixel help for Digital Wellbeing, checked on 16 October 2026.*
+
+## How to stop doomscrolling, especially at night
+
+https://habittoll.com/guides/stop-doomscrolling/ · German: https://habittoll.com/de/ratgeber/doomscrolling-stoppen/ · Spanish: https://habittoll.com/es/guias/dejar-el-doomscrolling/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+Doomscrolling is reading one more post, then another, long after you meant to stop. What helps is rarely willpower in the moment. It’s setting things up beforehand, so the next scroll takes a decision.
+
+### Why it’s hard to stop
+
+A feed has no last page: there’s always one more post. Each open is quick and feels like a small choice, so the total only shows up later, in your Screen Time or Digital Wellbeing numbers. That’s why most of what helps happens before you pick up the phone, not while you’re scrolling.
+
+### 1. Look at your numbers once
+
+On iPhone, open Settings → Screen Time and tap Daily Average. On Android, open Settings → Digital Wellbeing. Find the two or three apps with the most time. Those are the ones to work on; the rest can stay as they are.
+
+### 2. Give the evening a cut-off time
+
+Pick a time after which those apps stay closed, and let the phone hold you to it: a Screen Time Schedule on iPhone (Downtime on iOS 26), Focus mode or Bedtime mode on Android. Step by step: [block apps for certain hours on iPhone](https://habittoll.com/guides/block-apps-on-iphone/) or [on Android](https://habittoll.com/guides/block-apps-on-android/).
+
+### 3. Charge the phone outside the bedroom
+
+If the phone isn’t within reach, scrolling in bed starts with getting up. A simple alarm clock takes over the phone’s alarm.
+
+### 4. Turn off notifications from the feeds
+
+Every notification is an invitation to open the app. Keep them for people, like messages and calls, and turn them off for feeds and suggestions.
+
+### 5. Move the apps off your home screen
+
+Put them in a folder on the last page, or remove them from the home screen and open them through search. A few seconds of extra effort are often enough to notice what you’re about to do.
+
+### 6. Put a pause in front of the app
+
+A pause before an app opens turns an automatic open into a decision. A limit you can wave away in a tap is easy to get past. Some apps add a breathing exercise first. HabitToll asks “worth it?”: walking away is one tap and free, and going in costs 10 minutes at a price you set yourself.
+
+### 7. Decide in advance what’s worth it
+
+“Ten minutes after dinner” is a plan; “just checking” isn’t. Decide when an app is worth opening before the moment comes, and the moment gets easier.
+
+### 8. Count the times you don’t open it
+
+The scrolls you skip are invisible unless something counts them. A tally, a streak or a note at the end of the day makes them visible. HabitToll counts every walk-away and keeps a streak of the days you didn’t pay to open an app.
+
+### 9. Tell someone
+
+Saying it out loud to a friend makes it more real, and gives them a reason to ask how it’s going. In HabitToll, friends can see what you pay each day and your streak, never which apps.
+
+### Questions
+
+#### What is doomscrolling?
+
+Scrolling through a feed for much longer than you meant to, often late at night and often through news or posts you don’t enjoy. The word is informal; there’s no strict definition.
+
+#### Do I need an app to stop?
+
+No. Steps 1 to 5 use only what’s already on your phone. An app helps when the built-in limits are too easy to ignore, or too strict to keep.
+
+## How to reduce your screen time: 10 practical steps
+
+https://habittoll.com/guides/reduce-screen-time/ · German: https://habittoll.com/de/ratgeber/bildschirmzeit-reduzieren/ · Spanish: https://habittoll.com/es/guias/reducir-tiempo-de-pantalla/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+Start with the two or three apps that take most of your time, not with all of them. Give them a limit or a pause, change what makes you open them, and check your numbers once a week.
+
+### 1. Read your numbers
+
+Your phone already counts. On iPhone: Settings → Screen Time, then tap Daily Average. On Android: Settings → Digital Wellbeing. Note your daily average and the apps on top.
+
+### 2. Pick two or three apps
+
+Most screen time comes from a handful of apps. Working on those few is easier to keep up than limiting everything, and it leaves the useful apps alone: maps, messages, banking.
+
+### 3. Decide what you want instead
+
+“Less phone” is vague. “Read before bed” or “no phone at dinner” is something you can do. Pick one or two moments you want back.
+
+### 4. Give each app a limit or a time
+
+A daily amount (Time Allowances on iPhone, App Limits on iOS 26, app timers on Android) caps the total. Set hours (a Screen Time Schedule on iPhone, Downtime on iOS 26, Focus mode on Android) keep apps closed when you want them closed. Step by step: [iPhone](https://habittoll.com/guides/block-apps-on-iphone/) · [Android](https://habittoll.com/guides/block-apps-on-android/).
+
+### 5. Make the limit hard to wave away
+
+A limit you can change or dismiss in a moment is a reminder, not a limit. On iPhone, a Screen Time passcode that someone else keeps protects your settings; on Android, Digital Wellbeing’s App limits PIN does the same for timers. [Why your own passcode is easy to get around](https://habittoll.com/guides/screen-time-passcode/).
+
+### 6. Or put a price on it
+
+If a hard block feels too strict and a reminder too weak, there’s a middle way: a small price, set by you, to open the app. HabitToll asks “worth it?” before the apps you pick open. Walking away is free; 10 minutes cost a price you set, from €0.29, and if you like, the price doubles with each unlock that day.
+
+### 7. Turn off most notifications
+
+Keep notifications from people and turn off the rest. Fewer pings mean fewer reasons to pick up the phone.
+
+### 8. Change the home screen
+
+Move the apps you want to open less off the first page, into a folder or out of sight. Leave the useful ones in front.
+
+### 9. Make one place phone-free
+
+The dinner table, the bedroom or the first half hour of the day. A charger in the hallway does more than a rule you have to remember.
+
+### 10. Check once a week
+
+Look at your numbers on the same day each week. Keep what worked, drop what didn’t, and pick the next app.
+
+### Questions
+
+#### How much screen time is normal?
+
+There’s no single right number, and it depends on what the time is for. A useful question is whether you’re spending it the way you’d choose to.
+
+#### Is it better to delete the apps?
+
+Deleting works for some people, but the app is one download away. A limit, a pause or a price keeps the app for when it’s worth it and adds a decision for the rest.
+
+## An app blocker you can’t just switch off: your options
+
+https://habittoll.com/guides/app-blocker-you-cant-turn-off/ · German: https://habittoll.com/de/ratgeber/app-blocker-nicht-ausschaltbar/ · Spanish: https://habittoll.com/es/guias/bloqueador-apps-que-no-se-desactiva/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+Honest answer first: no app blocker on your own phone is impossible to switch off, because you can always delete it or take away its access. What works is making the way out slow enough that you don’t take it in the moment.
+
+### Why blockers get switched off
+
+Most limits fail in the same moment: the app is blocked, you want it now, and the off switch is two taps away. The fix isn’t a stronger lock you can’t open; it’s putting time or another person between you and the switch, so the decision waits until the urge has passed.
+
+### Option 1: a passcode someone else keeps
+
+On iPhone, Screen Time can lock its own settings with a passcode. If you set it yourself, you know it, so it stops very little. If a friend or partner sets it and keeps it, ending a limit means asking them. [More on the Screen Time passcode](https://habittoll.com/guides/screen-time-passcode/).
+
+### Option 2: a waiting time
+
+A delay on easier settings works without anyone else: any change that loosens your rules only takes effect a day later. Tightening still works at once. In HabitToll, the settings lock does this: removing apps, lowering your price or stopping the blocking waits 24 hours.
+
+### Option 3: a partner’s code
+
+Instead of the waiting time, HabitToll’s settings lock can use a code from a person you choose. Easier changes then need their code, or they wait. They never see your apps; they only hold the code.
+
+### Option 4: a price instead of a wall
+
+A lock you can’t open makes people look for the way around it. A small price, set by you, takes away the reason: when an app is worth it, you pay and go in; when it isn’t, walking away costs nothing. HabitToll works this way, with 10 minutes from €0.29 and two free emergency unlocks a month.
+
+### What no app can stop
+
+On your own phone you can always delete a blocker, or remove its Screen Time access on iPhone or its usage access on Android. That’s true for every blocker, HabitToll included: its terms say that taking away its access, or deleting it, always ends the blocking.
+
+### Questions
+
+#### Is a physical blocker better?
+
+Some people like a separate device you have to tap to unlock apps. It adds a step in the real world, which can help; it also means carrying or leaving the device somewhere. The same idea applies: the more effort the way out takes, the less often you take it.
+
+#### Can I make it permanent?
+
+Not on your own phone, and that’s on purpose: you stay in control. What you can choose is how slow and how deliberate the way out is.
+
+## A Screen Time passcode for yourself: why it’s easy to get around, and what helps
+
+https://habittoll.com/guides/screen-time-passcode/ · German: https://habittoll.com/de/ratgeber/bildschirmzeit-code/ · Spanish: https://habittoll.com/es/guias/codigo-tiempo-de-uso/
+
+[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+
+A Screen Time passcode stops anyone else from changing your Screen Time settings. If you set it yourself, it rarely stops you, because you know it. To make your limits stick, let someone else keep the code, add a waiting time, or replace the wall with a price.
+
+### What the passcode does
+
+With a Screen Time passcode, the code is needed before anyone can change the Screen Time settings you chose: your allowances, your schedule, or Screen Time itself. On iOS 26 it also unlocks Block at Downtime, which makes Downtime a real block instead of a reminder.
+
+### How to set it
+
+1.  Open Settings → Screen Time → Manage Screen Time. On iOS 26, scroll down in Settings → Screen Time instead.
+2.  Tap Lock Screen Time Settings and enter a four-digit code twice.
+3.  Set up Screen Time Passcode Recovery, so the code can be reset with an Apple Account if it’s forgotten.
+
+### Why it rarely stops you
+
+When you set the code yourself, it’s in your head. In the moment you want the app, four digits are quick to type, and the limit turns back into a reminder. A passcode is a lock against other people, not against yourself.
+
+### Three ways to make your limits stick
+
+#### 1. Let someone else keep the code
+
+Hand your phone to someone you trust at step 2, and let them choose the code without showing you. Apple’s recovery uses the Apple Account entered when the code was set up, which can be someone else’s: if they enter their own account there, resetting the code needs them too. More time then always means asking them.
+
+#### 2. Add a waiting time
+
+A rule that loosens only a day later gives the urge time to pass. Screen Time has no waiting time, but HabitToll’s settings lock does: removing apps, lowering your price or stopping the blocking waits 24 hours, while tightening works at once.
+
+#### 3. Replace the wall with a price
+
+A wall makes you look for the way around it. HabitToll asks “worth it?” before the apps you pick open: walking away is free, and going in costs 10 minutes at a price you set, from €0.29. There’s no code to type; the decision is the price.
+
+### Questions
+
+#### What if I forget my Screen Time passcode?
+
+Open Settings → Screen Time → Manage Screen Time → Change Screen Time Passcode, tap Change Screen Time Passcode again, and enter the Apple Account that was used for recovery when the code was set up. Then choose a new code.
+
+#### Is the Screen Time passcode the same as my iPhone passcode?
+
+No. It’s a separate four-digit code, only for Screen Time.
+
+*Steps from Apple’s iPhone User Guide and Apple Support, checked on 16 October 2026.*
+
+## HabitToll vs Screen Time on iPhone
+
+https://habittoll.com/compare/screen-time/ · German: https://habittoll.com/de/vergleich/bildschirmzeit/ · Spanish: https://habittoll.com/es/comparar/tiempo-de-uso/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Screen Time is built into every iPhone and is free. On iOS 27 it gives categories like Social Media a daily Time Allowance and sets hours with a Screen Time Schedule; on iOS 26 the same tools are App Limits and Downtime. HabitToll uses Apple’s Screen Time system underneath, but instead of a countdown it asks “worth it?” each time, and going in costs 10 minutes at a price you set.
+
+### At a glance
+
+|  | Screen Time | HabitToll |
+|----|----|----|
+| What it is | Apple’s built-in tool: Time Allowances, a Screen Time Schedule and usage reports | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | Free, part of iOS | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| How it limits | A daily amount per category, and the hours when apps can be used | A question at each open: walk away for free, or buy 10 minutes |
+| What you limit | A daily total and categories on iOS 27; categories or single apps with App Limits on iOS 26 | Single apps and websites you pick |
+| Getting past it | Change the settings, unless a Screen Time passcode protects them | Pay your price; 2 free emergency unlocks a month |
+| Protecting the settings | A four-digit Screen Time passcode | A settings lock: easier changes wait 24 hours or need a partner’s code |
+| Usage reports | Yes, detailed | Your walk-aways, streak and monthly bill |
+| Platforms | iPhone, iPad, Mac | iPhone (iOS 26.4 or later) and Android (8 or later) |
+
+### The main difference
+
+Screen Time counts minutes. Apps in a category work until their allowance runs out, and a schedule decides when they can be used at all. Without a passcode you can change all of it in a few taps, and Apple notes that on iOS 26 a limit can be ignored once it’s reached unless you block it. With a passcode someone else keeps, Screen Time becomes a hard stop.
+
+HabitToll asks each time you open an app you picked, outside any free minutes or free hours you gave it. Walking away is one tap, free, and counted; going in costs a price you chose, so a quick scroll becomes a small purchase you decide on. The price can double with each unlock on the same day, if you turn that on, and a monthly limit makes HabitToll ask before every paid unlock past it.
+
+### When Screen Time is the better fit
+
+- You want a hard daily cap, and someone else can keep the passcode.
+- You want detailed reports across iPhone, iPad and Mac.
+- You don’t want to pay anything, ever.
+
+### When HabitToll is the better fit
+
+- You keep giving yourself more time, but a hard block feels too strict.
+- You want each open to be a decision, not a countdown.
+- You want a lock that works on your own: HabitToll’s settings lock can make easier changes wait 24 hours, or need a partner’s code if you’d like one.
+- You also use Android.
+
+### Using both
+
+They work together. HabitToll uses Apple’s Screen Time framework to block the apps you pick, and you can keep Screen Time’s reports and schedule alongside it.
+
+### Questions
+
+#### Does HabitToll need Screen Time to be on?
+
+HabitToll asks for Screen Time access during setup; that’s how iOS lets an app block other apps. Your own Screen Time settings and reports stay as they are.
+
+#### Can Screen Time charge for unlocks?
+
+No. Screen Time has no payments. Putting a price on 10 minutes is what HabitToll adds.
+
+*Facts checked on 16 October 2026 in Apple’s iPhone User Guide for iOS 27 and iOS 26, and on the App Store. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs Digital Wellbeing on Android
+
+https://habittoll.com/compare/digital-wellbeing/ · German: https://habittoll.com/de/vergleich/digital-wellbeing/ · Spanish: https://habittoll.com/es/comparar/bienestar-digital/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Digital Wellbeing is Google’s free tool on Android: an app timer closes an app for the rest of the day once its time is used up, and Focus mode pauses apps during set hours. HabitToll asks “worth it?” each time you open an app you picked, and going in costs 10 minutes at a price you set.
+
+### At a glance
+
+|  | Digital Wellbeing | HabitToll |
+|----|----|----|
+| What it is | Google’s tool on Android: app timers, Focus mode, Bedtime mode and usage reports | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | Free, part of Android | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| How it limits | A daily timer per app; when it runs out, the app closes and its icon dims until midnight | A question at each open: walk away for free, or buy 10 minutes |
+| Getting past it | Delete or change the timer, use Take a break in Focus mode, or turn Focus mode off | Pay your price; 2 free emergency unlocks a month |
+| Protecting the settings | An optional four-digit PIN for app timers | A settings lock: easier changes wait 24 hours or need a partner’s code |
+| Usage reports | Yes, a usage dashboard | Your walk-aways, streak and monthly bill |
+| Platforms | Android | Android (8 or later) and iPhone (iOS 26.4 or later) |
+
+### The main difference
+
+Digital Wellbeing works with time. A timer runs down, the app closes, and it stays closed until midnight. Without a PIN, you can delete the timer in the same screen where you set it. With the App limits PIN on, changing a timer needs the PIN, but a PIN you choose yourself is one you know.
+
+HabitToll works with decisions. Each open of an app you picked asks “worth it?”, outside any free minutes or free hours you set. Walking away is free and counted; going in costs a price you chose, which can double with each unlock that day if you turn that on. The settings lock doesn’t need anyone else: easier changes, like removing an app or lowering the price, can simply wait 24 hours.
+
+### When Digital Wellbeing is the better fit
+
+- A daily timer is all you want, and you’ll leave it alone, or someone else can keep the PIN.
+- You want Bedtime mode at night, with Do Not Disturb and a greyscale screen.
+- You don’t want to pay anything, ever.
+
+### When HabitToll is the better fit
+
+- You keep deleting the timer when it runs out.
+- You’d rather decide at each open than run out of minutes.
+- You want a lock that works on your own: a 24-hour wait, or a partner’s code if you’d like one.
+- You also have an iPhone, or friends who do.
+
+### Using both
+
+They work side by side. You can keep Bedtime mode and the usage dashboard, and let HabitToll ask in front of the apps you open without thinking.
+
+### Questions
+
+#### Does HabitToll replace Digital Wellbeing?
+
+No. It adds a question and a price in front of the apps you pick. Digital Wellbeing stays on your phone with its reports.
+
+#### What does HabitToll see on Android?
+
+Usage access shows HabitToll which app is in front. Which apps you block, and how long you use them, never leave your phone.
+
+*Facts checked on 16 October 2026 in Google’s Android and Pixel help for Digital Wellbeing. Menus can differ on phones from other makers. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs Opal
+
+https://habittoll.com/compare/opal/ · German: https://habittoll.com/de/vergleich/opal/ · Spanish: https://habittoll.com/es/comparar/opal/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Both use Apple’s Screen Time to block apps on iPhone, and both are on Android. Opal is a focus app with sessions, schedules, time limits and a strict Hard Mode in its Pro subscription; HabitToll asks “worth it?” each time and lets you buy 10 minutes at a price you set, or walk away for free, with no subscription.
+
+### At a glance
+
+|  | Opal | HabitToll |
+|----|----|----|
+| What it is | A screen time app for blocking apps and websites: focus sessions, schedules, time limits and open limits | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | A free plan with limits; Opal Pro is a subscription, $19.99 a month or $99.99 a year on the US App Store | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When you open a blocked app | A block screen; if your rule allows unblocks, you wait through a “Waiting Room” first, like a pause, a breathing exercise or a small game | “Worth it?”: walk away for free, or buy 10 minutes |
+| Getting past a block | Unblock after the Waiting Room; in Hard Mode (Pro) no unblocks, only an Emergency Pass once a week for an hour | Pay your price; 2 free emergency unlocks a month |
+| Platforms | iPhone (iOS 18 or later), Android, Mac | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| Account | Needed to use Pro on more than one device | None |
+| App Store privacy label | Data used to track you: identifiers. Data linked to you: purchases, contact info, user content, identifiers, usage data | Data linked to you: purchase history and a user ID, for the app’s features. Nothing used to track you |
+
+### The main difference
+
+Opal is built around focus time: you set rules, and inside them apps are blocked. Getting out early goes through a waiting room, and in Pro’s Hard Mode there’s no way out except a weekly Emergency Pass. It’s thorough, with reports, a focus score and sounds for working.
+
+HabitToll is built around the single open. Each time you open an app you picked, it asks “worth it?”, outside any free minutes or free hours you set. Walking away is one tap, free and counted; going in costs 10 minutes at a price you chose. There’s no subscription and no plan to upgrade to: everything is included, and you pay only for the minutes you decide are worth it.
+
+### When Opal is the better fit
+
+- You want deep-focus sessions with a timer, sounds and a focus score.
+- You want blocks you really can’t end early, and you’re fine paying for Pro.
+- You use a Mac as well.
+
+### When HabitToll is the better fit
+
+- You’d rather decide at each open than plan focus sessions.
+- You’d rather pay a small price, chosen by you, than a subscription.
+- You want no account and as little data as possible.
+
+### Questions
+
+#### Is there an Opal alternative without a subscription?
+
+HabitToll has no subscription and no paid plan. It’s free to download; you pay only when you buy 10 minutes of an app, at a price you set, from €0.29. Walking away is always free.
+
+#### Does HabitToll have a hard mode?
+
+Not in Opal’s sense. HabitToll’s settings lock makes easier changes wait 24 hours or need a partner’s code, so you can’t undo your rules in the moment, but there’s always a way in: paying your price, or one of two free emergency unlocks a month.
+
+*Facts checked on 16 October 2026 on the App Store (US and Germany), Google Play, opalapp.com and Opal’s help pages. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs one sec
+
+https://habittoll.com/compare/one-sec/ · German: https://habittoll.com/de/vergleich/one-sec/ · Spanish: https://habittoll.com/es/comparar/one-sec/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Both put a moment of friction in front of an app instead of a hard wall. one sec makes you take a short pause first, like a deep breath, and then you decide; HabitToll asks “worth it?” and going in costs 10 minutes at a price you set, while walking away is free.
+
+### At a glance
+
+|  | one sec | HabitToll |
+|----|----|----|
+| What it is | A short pause before distracting apps open: a breathing exercise or another quick task, then you choose | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | Free for one app; one sec pro for more apps: $6.99 a month, $19.99 a year or $99.99 once on the US App Store, with a one-week trial | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When you open a limited app | The pause plays first; after it, you can open the app or leave | “Worth it?”: walk away for free, or buy 10 minutes |
+| After a while in the app | It can ask again after a set time (re-intervention) | Your 10 minutes run; then it asks again |
+| Getting past it | Sit through the pause, then open the app; one sec pro adds strict blocks for harder limits | Pay your price; 2 free emergency unlocks a month |
+| Platforms | iPhone, iPad, Mac and Android, plus a Safari extension for websites | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| App Store privacy label | Data not linked to you: usage data, for analytics | Data linked to you: purchase history and a user ID, for the app’s features |
+
+### The main difference
+
+one sec adds time: a few seconds of breathing before the app opens. The pause gives you a moment to notice what you’re doing, and then the choice is yours.
+
+HabitToll adds a price. The question is the same, “do I really want this?”, but saying yes costs something you chose yourself, so a quick scroll becomes a small purchase. Walking away is one tap, free and counted, and the price can double with each unlock on the same day, if you turn that on.
+
+### When one sec is the better fit
+
+- A pause is enough for you, and you don’t want money involved.
+- You want it on iPad and Mac too.
+- One app is all you want to limit, and you’d like that free.
+
+### When HabitToll is the better fit
+
+- You’ve learned to wait out a pause, and need something that costs more than a few seconds.
+- You’d rather pay per unlock, at a price you choose, than a subscription.
+- You want a streak and a monthly bill that show what each open cost.
+
+### Questions
+
+#### Is there a one sec alternative without a subscription?
+
+HabitToll has no subscription. It’s free to download; you pay only when you buy 10 minutes of an app, at a price you set, from €0.29. Walking away is always free.
+
+#### Can I use both?
+
+Yes, though two pauses in front of the same app is a lot. One per app is usually enough.
+
+*Facts checked on 16 October 2026 on the App Store (US and Germany), Google Play, one-sec.app and one sec’s help pages. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs Pushscroll
+
+https://habittoll.com/compare/pushscroll/ · German: https://habittoll.com/de/vergleich/pushscroll/ · Spanish: https://habittoll.com/es/comparar/pushscroll/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Both put something in front of the apps you open too often. Pushscroll makes you earn app time with exercise, counted by the camera, or with your steps; HabitToll asks “worth it?” and lets you buy 10 minutes at a price you set, or walk away for free. Pushscroll needs a subscription after its trial; HabitToll has none.
+
+### At a glance
+
+|  | Pushscroll | HabitToll |
+|----|----|----|
+| What it is | Time limits on apps; you earn more time with push-ups, squats and other exercises, or with steps from Apple Health | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | A subscription after a 7-day free trial: $14.99 a month or $59.99 a year (US prices on pushscroll.com) | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When your time is up | Exercise to earn more minutes; the camera counts the reps | “Worth it?”: walk away for free, or buy 10 minutes |
+| Platforms | iPhone (iOS 16 or later) and Android | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| Account | Not needed | None |
+| App Store privacy label | Data used to track you: purchases, identifiers. Data linked to you: health and fitness, purchases, contact info, identifiers, usage data, diagnostics | Data linked to you: purchase history and a user ID, for the app’s features. Nothing used to track you |
+
+### The main difference
+
+Pushscroll turns screen time into exercise: “One pushup = one minute of app time”, in its own words. If you like moving and want a reason to, that’s a strong idea.
+
+HabitToll turns each open into a decision. You pick a price for 10 minutes when you set it up; when an app is worth it, you pay and go in, and when it isn’t, walking away is one tap and counts. There’s no exercise, no camera and no subscription: you only pay for the minutes you decide are worth it.
+
+### When Pushscroll is the better fit
+
+- You want to move more, and exercise is a reward you’ll actually do.
+- You’re fine with a subscription.
+
+### When HabitToll is the better fit
+
+- You can’t or don’t want to do exercises whenever you want an app: on the bus, in bed, at work.
+- You’d rather pay a small price, chosen by you, than a monthly subscription.
+- You’d rather not use the camera or Apple Health for it.
+
+### Questions
+
+#### Is HabitToll a free alternative to Pushscroll?
+
+HabitToll is free to download and has no subscription. Blocking and walking away are free; you pay only when you buy 10 minutes, at a price you set, from €0.29.
+
+#### Does HabitToll use the camera?
+
+No. HabitToll never uses the camera.
+
+*Facts checked on 16 October 2026 on the App Store (US and Germany) and pushscroll.com. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll vs Brainrot
+
+https://habittoll.com/compare/brainrot/ · German: https://habittoll.com/de/vergleich/brainrot/ · Spanish: https://habittoll.com/es/comparar/brainrot/
+
+[Comparison](https://habittoll.com/compare/) · Updated 16 October 2026
+
+Both use Apple’s Screen Time to block apps. Brainrot blocks on schedules or after a daily limit, and shows a brain avatar that decays as you scroll; HabitToll asks “worth it?” each time and lets you buy 10 minutes at a price you set, or walk away for free. Brainrot needs a subscription for its features; HabitToll has none.
+
+### At a glance
+
+|  | Brainrot | HabitToll |
+|----|----|----|
+| What it is | A blocker for apps and websites with schedules, a focus timer and a brain avatar | An app blocker that asks “worth it?” before the apps you pick open |
+| Price | A subscription for all features: from $3.99 to $49.99 on the US App Store, depending on the plan | Free to download, no subscription; 10-minute unlocks at a price you set, from €0.29 |
+| When you open a blocked app | A block screen; depending on your settings, you can ask for more time | “Worth it?”: walk away for free, or buy 10 minutes |
+| Platforms | iPhone (iOS 17.6 or later); not on Google Play | iPhone (iOS 26.4 or later) and Android (8 or later) |
+| App Store privacy label | Data used to track you: identifiers. Data not linked to you: usage data | Data linked to you: purchase history and a user ID, for the app’s features. Nothing used to track you |
+
+### The main difference
+
+Brainrot works like a classic blocker with a playful side: schedules for bedtime, mornings or meetings, a focus timer, breaks, and an avatar that shows the cost of scrolling as a decaying brain.
+
+HabitToll asks at each open of the apps you picked, always or only at the times you choose, outside any free minutes or free hours you set. Walking away is one tap and counted, and going in is a small purchase you decide on. You pay only for the minutes you decide are worth it, never a subscription.
+
+### When Brainrot is the better fit
+
+- You want fixed blocking times, like every morning or during meetings, and a focus timer.
+- You like a playful avatar more than numbers.
+- You’re fine with a subscription.
+
+### When HabitToll is the better fit
+
+- You’d rather decide at each open than live by a schedule.
+- You’d rather pay a small price, chosen by you, than a subscription.
+- You also use Android.
+
+### Questions
+
+#### Is there a Brainrot alternative without a subscription?
+
+HabitToll has no subscription. It’s free to download; you pay only when you buy 10 minutes of an app, at a price you set, from €0.29. Walking away is always free.
+
+#### Can HabitToll block websites?
+
+On iPhone, yes: when you pick what to block, the list includes websites, and HabitToll asks before those too. On Android, HabitToll blocks apps only.
+
+*Facts checked on 16 October 2026 on the App Store (US and Germany) and the developer’s pages. Prices change and differ by country. HabitToll is our app, so we’re not neutral; if something here is out of date, write to help@habittoll.com.*
+
+## HabitToll Privacy Policy
+
+https://habittoll.com/privacy/ · German: https://habittoll.com/de/datenschutz/ · Spanish: https://habittoll.com/es/privacidad/
+
+*Last updated: 16 October 2026*
+
+HabitToll puts a price on the apps you want to open less. This policy explains what data the app uses, where it goes and what you can do about it.
+
+**The short version**
+
+- Which apps you block, and how long you use them, are never sent to us. Device backups may contain a copy (see “Android and this version”).
+- There’s no account. We never ask for your name, email, Apple Account or Google Account.
+- **The app sends us nothing, except for Friends if you turn it on** (section 6). Your purchases go through Apple or Google Play.
+- Purchase records and optional usage statistics (sections 4, 5 and 7) are not switched on yet. We’ll tell you in the app before either starts.
+- We don’t sell data, don’t show ads in the app and don’t track you across other apps or websites.
+- We may advertise HabitToll on platforms such as Apple, Google or Meta. The app and this website contain no advertising or tracking code, and this website sets no cookies (sections 14 and 15).
+
+### Android and this version
+
+This policy covers HabitToll on iPhone and Android. From version 1.0.3 on iPhone and 1.0.2 on Android, Friends (section 6) works when you turn it on, and its server logs (section 8) apply. Purchase records and usage statistics (sections 4, 5 and 7) are still not sent to our servers: those server features are not enabled. We will tell you before a later version enables them.
+
+**What Android uses.** You enable usage access and permission to display over other apps during setup. While blocking is on and your screen is on, usage access lets HabitToll identify the app in front. Permission to display over other apps lets it show the pause screen over an app you chose to limit. The package names of the apps you select, such as `com.instagram.android`, stay on your phone. We do not receive your usage history or the identities of the apps you block. During setup, “Your last 7 days.” reads your daily usage for the preceding seven days and calculates an average on your phone. That calculation is not saved or sent. A persistent notification tells you when HabitToll is guarding your apps.
+
+**Purchases and refunds.** On Android, a 10-minute pass is purchased through Google Play. Google handles payment and refunds under [Google’s privacy policy](https://policies.google.com/privacy). We do not receive your card details or Google Account details from the app. The app does not send Google Play its installation ID. The app stores its purchase records locally and sends none to our servers in this version. Refund requests go through [Google Play](https://support.google.com/googleplay/answer/2479637). The iPhone option “Confirm delivery to Apple” does not apply on Android. Google is responsible for the data it handles in Google Play and its backup service under its own policy.
+
+**Device backups.** Your phone’s backup may contain HabitToll’s settings, history, streak and hashed partner code. Android permits Google device backup and transfer to a new device; iPhone backups may include app data in iCloud or a computer backup. The backup provider may hold a copy outside your phone; we never receive it. Uninstalling removes the app’s local files, but does not necessarily remove an existing device backup. Manage those copies through your backup provider.
+
+There is no HabitToll account on either platform. We do not ask for your name, email, Apple Account or Google Account. Sections describing Apple’s Screen Time, purchases and delivery confirmation apply to the iPhone app; the Android details above apply instead on Android.
+
+### 1. Who we are
+
+The controller responsible for your data is:
+
+Comads OÜ\
+Ahtri tn 12, 15551 Tallinn, Estonia\
+Registry code: 17276947\
+Email: help@habittoll.com
+
+We haven’t appointed a data protection officer; the law doesn’t require one for us. For anything about your data, write to help@habittoll.com.
+
+### 2. What stays on your phone
+
+The app does its work on your phone. These things are stored only there, and we never receive them:
+
+- the apps you block, and on iPhone also websites. On iPhone, Apple gives the app only coded tokens, and iOS itself draws their names and icons; on Android, the app keeps the package names of the apps you pick (see “Android and this version”);
+- when and how long you use them, every block screen you see and every time you walk away;
+- your settings: price, monthly limit, free minutes and free hours, block times, the settings lock and the partner code;
+- your answers during setup, such as your daily phone time and age range;
+- your history, your monthly bill and your streak;
+- the names you give your friends in the app.
+
+The one exception is Friends, if you turn it on: then what your friends see goes to our server (section 6), that is, per day, how many unlocks you paid for and how much, and your streak. Never which apps.
+
+On iPhone, the app uses Apple’s Screen Time framework to block apps; on Android, it uses usage access and permission to display over other apps. We don’t send any of this information anywhere.
+
+Reminders, such as when an unlock is about to run out, are scheduled on your phone. We don’t send push notifications.
+
+“Delete my data” (Settings → Your data) erases your history and setup answers on the phone. Deleting the app erases everything it stored on your phone; a device backup may still hold a copy (see “Android and this version”).
+
+### 3. A random ID instead of an account
+
+When you first open the app, it creates a random ID for this installation (the “install ID”). It isn’t linked to your name, email, phone number, Apple Account or device. We use it:
+
+- to match purchases to this installation. Apple stores it with each purchase (as the “app account token”);
+- for usage statistics, only if you choose to share them (section 7);
+- as your support ID. The first 8 characters are shown in Help, so we can find your data when you write to us.
+
+Friends uses a separate random ID (section 6), so friends data is never joined with your purchases or statistics.
+
+### 4. Purchases
+
+You buy unlocks from Apple, through Apple’s purchase sheet. Apple handles the payment. We never see your card or payment details, your name or your Apple Account. Apple’s privacy policy applies to that part: [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
+
+When a paid unlock starts, the app sends our server:
+
+- the install ID;
+- Apple’s signed record of the purchase: transaction ID, product (price tier), price and currency, purchase date, App Store country, and whether it was a test purchase;
+- the app version and platform;
+- your answers to the two consent questions (usage statistics, section 7; delivery confirmation, section 5), with a counter that keeps the answers in the right order.
+
+Our server also records when it first and last heard from the installation.
+
+Apple also informs our server about purchases and refunds (App Store Server Notifications). For example, it tells us that a purchase happened, that a refund was requested and the reason given to Apple, and Apple’s decision.
+
+- **Why:** to deliver what you paid for, to handle refunds correctly, to prevent misuse and to know how often refunds happen.
+- **Legal basis:**
+  - our contract with you (Art. 6(1)(b) GDPR);
+  - our legitimate interest in correct refunds and in preventing misuse (Art. 6(1)(f) GDPR);
+  - legal record-keeping duties (Art. 6(1)(c) GDPR).
+- **How long:** 24 months after the purchase, then deleted, unless a law requires us to keep a record longer.
+
+### 5. Refunds: “Confirm delivery to Apple” (off unless you switch it on)
+
+If you ask Apple for a refund, Apple may ask us whether the unlock was delivered. **We answer only if you switched on “Confirm delivery to Apple”** in Settings → Your data. It’s off until you switch it on, and the app never asks you to.
+
+If it’s on, we tell Apple about that purchase:
+
+- that you consented;
+- that the unlock was delivered, but only if the app reported that it was;
+- that the pay screen showed what the purchase does and its price before you bought it.
+
+We never tell Apple how many minutes you used. We don’t know.
+
+- **Legal basis:** your consent (Art. 6(1)(a) GDPR).
+- **Withdrawing:** switch it off at any time. We then stop answering for future requests.
+- **If it’s off:** we don’t answer, and Apple decides alone.
+
+### 6. Friends (optional)
+
+Friends stays off until you turn it on and invite someone, or accept someone’s invite.
+
+**What your friends see, per day:**
+
+- how many unlocks you paid for, and how much. You can hide the amounts with “Show amounts”;
+- your streak (days without a paid unlock) and your best, which you can hide with “Show streak”.
+
+They never see which apps, what time or for how long. They also never see your walk-aways, your free or emergency unlocks, or your settings.
+
+**What our server stores for Friends:**
+
+- a random friend ID and a scrambled (hashed) form of its secret key. The key itself stays on your phone;
+- the daily numbers above, for the last 35 days, and your streak and best;
+- who is linked with whom, and the people you blocked;
+- open invite codes, stored only in a scrambled form;
+- cheers (a stamp, no text), for 30 days;
+- your platform, your three Friends switches and when your profile was last used.
+
+**Preventing abuse:** we count requests to stop invite codes from being guessed. For a few kinds of request, we count per IP address using a one-way scrambled form that changes every day, and we delete these counters within about two hours. We never store your IP address itself in our database.
+
+- **Why:** to show your progress to the friends you chose, as you asked.
+- **Legal basis:**
+  - our contract with you (Art. 6(1)(b) GDPR);
+  - for the abuse counters, our legitimate interest in keeping the service safe (Art. 6(1)(f) GDPR).
+- **How long:**
+  - daily numbers: 35 days;
+  - invites: 30 days after they were used or expired;
+  - cheers: 30 days.
+- **Deleting:** “Turn off Friends” or “Delete my data” deletes your friends profile, and everything linked to it on our server, at once. A profile is also deleted automatically:
+  - 30 days after its last use, if it has no friends and no open invites;
+  - 12 months after its last use in any case.
+
+Only people you invited, or whose invite you accepted, see your numbers. You can remove or block a friend at any time.
+
+### 7. Usage statistics (only if you tap “Share”)
+
+The app asks you once whether to share usage statistics. **Until you tap “Share”, nothing is recorded for statistics.**
+
+If you share, the app sends events such as:
+
+- setup steps completed;
+- a purchase started, completed or cancelled, with its price and currency;
+- the monthly limit reached, or a streak milestone;
+- your answers to short questions in the app, for example why you stopped blocking;
+- your rough daily phone time from setup, as a range;
+- once a day, a summary with rough counts, such as “3–5”.
+
+Each event carries the install ID, the app version and when it happened. Statistics never contain which apps you block, app names, how long you used them or anything you type.
+
+- **Why:** to understand what helps and what doesn’t, and to improve the app.
+- **Legal basis:** your consent (Art. 6(1)(a) GDPR). Keeping the events on your device until they’re sent also needs your consent under the ePrivacy rules of your country (in Germany, § 25 TDDDG).
+- **Provider:** PostHog Inc., in its EU cloud (Frankfurt, Germany).
+  - We don’t use PostHog’s app library. The app sends one small request itself: no device identifiers, no automatic tracking, no screen recording, and location lookup switched off.
+  - As with any connection, PostHog sees the IP address the request comes from. We’ve set PostHog not to store it.
+- **Refunds:** if you share statistics, our server also tells PostHog when a purchase of yours is refunded (install ID, product, price and currency). This measures how often refunds happen.
+- **How long:** 12 months, then deleted.
+- **Withdrawing:** Settings → Your data → Usage stats. From then on nothing is sent, events not yet sent are deleted, and the app tells our server to stop the refund events.
+
+### 8. Server logs
+
+When the app talks to our server, the server keeps short technical logs, for example the time, the function called and errors. Connection errors can include an IP address. We use them to run the service and fix errors. Our logs never contain your install ID, friend ID or keys.
+
+- **Legal basis:** our legitimate interest in a working, secure service (Art. 6(1)(f) GDPR).
+- **How long:** 14 days.
+
+### 9. Who handles data for us
+
+- **Amazon Web Services EMEA SARL** (Luxembourg) hosts our server and database in the EU (Frankfurt, Germany).
+- **PostHog Inc.** stores usage statistics in its EU cloud (Frankfurt, Germany), and only if you share them.
+- **Cloudflare Inc.** forwards email sent to help@habittoll.com (section 13).
+- **GitHub Inc.** hosts this website (section 15).
+- **Apple** runs the App Store, payments and refunds. Apple is responsible for that data itself, under its own privacy policy.
+
+AWS, PostHog and Cloudflare work only on our instructions, under data processing agreements, and must protect the data at least as well as this policy describes. PostHog and Cloudflare are US companies, and AWS belongs to the US company Amazon. If data is accessed from outside the EU, the European Commission’s standard contractual clauses or the EU-U.S. Data Privacy Framework protect it.
+
+### 10. Your rights
+
+You have the right to:
+
+- get a copy of your data (Art. 15 GDPR), and receive it in a machine-readable format (Art. 20);
+- have it corrected (Art. 16);
+- have it deleted (Art. 17), or its use restricted (Art. 18);
+- object to uses based on our legitimate interests (Art. 21);
+- withdraw any consent at any time (Art. 7(3)). This doesn’t affect what happened before you withdrew;
+- complain to a data protection authority. That can be the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon, Tatari 39, 10134 Tallinn, [www.aki.ee](https://www.aki.ee)), or the authority where you live or work.
+
+**How to use them.** In the app, go to Settings → Your data:
+
+- “Delete my data” erases your history and setup answers on the phone, and your friends data on our server.
+- “Ask for a copy or erasure” opens an email to us with your support ID, so we can find your purchase records. We answer within one month.
+
+We don’t know who you are, so we can only find your data through the IDs the app holds. Please send requests from the app.
+
+### 11. Age
+
+HabitToll is for adults (18+). It isn’t meant for children, and we don’t knowingly collect data from children.
+
+### 12. Backups
+
+Deleted data can remain in our hosting provider’s backups until those backups are replaced, for at most 30 days.
+
+### 13. Emailing us
+
+If you write to us, we receive your email address, your message and anything you attach. Mail sent to help@habittoll.com is forwarded by Cloudflare (Cloudflare Email Routing) to the mailbox we answer from, at Google (Gmail). We use your message only to answer you and to settle your request.
+
+- **Legal basis:** our contract with you, when you write about the app or a purchase (Art. 6(1)(b) GDPR); otherwise our legitimate interest in answering you (Art. 6(1)(f) GDPR).
+- **How long:** until your request is settled, and at most 24 months, unless the law requires us to keep it longer.
+
+### 14. Advertising for HabitToll
+
+The app shows no ads. Neither the app nor this website contains advertising or tracking code.
+
+We may advertise HabitToll on other services, for example Apple (ads on the App Store), Google (such as Search and YouTube), Meta (Facebook, Instagram) or TikTok. Those ads are shown by the platform under its own privacy policy, and the platform decides, as its own controller, which of your data it uses to show them. From the platforms we receive only overall numbers, such as how many people saw an ad or downloaded the app. They don’t tell us who you are.
+
+If we ever want to measure our ads with tools in the app or on this website, for example from Apple, Google or Meta, we’ll first add them to this policy. Where the law requires consent, we’ll ask for it before anything is read from or stored on your device: in the app with Apple’s “Allow tracking” prompt or our own question, on this website with a clear choice to accept or decline.
+
+### 15. This website
+
+These pages are hosted on GitHub Pages by GitHub, Inc. (USA). Like any web host, GitHub records the IP address of visitors to keep the service secure; see [GitHub’s Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The domain habittoll.com is registered with Cloudflare, Inc., which only points it to GitHub; your visits don’t pass through Cloudflare.
+
+**No cookies, no tracking.** This website sets no cookies and stores nothing in your browser. It uses no analytics, tracking or advertising code, and loads nothing from other companies; even its fonts come from these pages. That’s why there’s no cookie banner. If we ever add cookies or similar technology that isn’t strictly necessary, we’ll ask for your consent first (Art. 6(1)(a) GDPR; in Germany § 25 TDDDG).
+
+- **Legal basis:** our legitimate interest in providing these pages safely (Art. 6(1)(f) GDPR).
+
+### 16. Changes
+
+If we change this policy, we’ll update the date at the top. If a change matters to you, we’ll also tell you in the app.
+
+## HabitToll Terms of Use
+
+https://habittoll.com/terms/ · German: https://habittoll.com/de/nutzungsbedingungen/ · Spanish: https://habittoll.com/es/condiciones/
+
+*Last updated: 16 October 2026*
+
+These terms are the agreement between you and Comads OÜ (“we”, details in section 15) for the HabitToll app on iPhone and Android. They’re short; please read them.
+
+### 1. What HabitToll is
+
+HabitToll blocks the apps you want to use less: on iPhone with Apple’s Screen Time, on Android with Android’s own permissions (section 12). When you open a blocked app, a block screen appears. You can:
+
+- walk away (“Not worth it”);
+- use one of the free ways through (section 4); or
+- buy a 10-minute unlock at a price you chose yourself.
+
+Blocking, your statistics, the monthly bill, streaks and Friends cost nothing. There’s no subscription.
+
+HabitToll is a self-control tool. It isn’t a medical product or a treatment, and we can’t promise any particular result.
+
+### 2. Who can use it
+
+You must be at least 18. You use HabitToll on your own device, for yourself. Don’t use it to control someone else’s device.
+
+### 3. Unlocks you pay for
+
+- **You set the rules.** During setup and in Settings, you choose:
+  - your price per unlock;
+  - whether the price doubles for each further unlock the same day. It goes up to at most 10× your price, and resets at 04:00;
+  - a monthly limit. Prices above €19.99 need one.
+- **What one unlock is:** a one-time in-app purchase, a “10-minute pass”. It opens the app you tapped for 10 minutes of use. It starts right away, and ends after 10 minutes of use or 60 minutes after it started, whichever comes first. Unused minutes don’t carry over.
+- **You buy it from Apple.** Every payment goes through Apple’s purchase sheet, at the price Apple shows there, under Apple’s Media Services Terms. Apple charges you and handles the payment.
+- **The price before you pay:** the block screen and the pay screen show the price of this unlock, and of the next one, before Apple’s sheet opens.
+- **Your monthly limit:**
+  - Past your limit, the app asks before every paid unlock.
+  - With “Stop at my limit” on, paid unlocks stop until the 1st of the next month. Emergency unlocks still work.
+  - A purchase you already confirmed on Apple’s sheet, or one waiting for approval, is always delivered when it completes.
+- **If a purchase completes later**, for example after an approval, HabitToll delivers it as soon as Apple passes it on, usually the next time you open HabitToll. If it’s the only request at that price from the last 24 hours and its app is still blocked, that app opens for 10 minutes then. Otherwise it’s kept as a prepaid unlock and used for your next unlock.
+- **If iOS locks a paid unlock again too early**, less than 9 minutes after it started (sooner than its 10 minutes could have been used), your next unlock is free. An unlock that ends at the 60-minute limit isn’t made up. If anything else went wrong with an unlock you paid for, write to us, or ask Apple for a refund.
+- **Refunds** are decided by Apple. You can ask Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com), or through Help → Refunds in the app. Your legal rights as a consumer are not affected.
+
+### 4. Free ways through
+
+- “Not worth it” is always one tap, and always free.
+- Depending on your settings, you also have:
+  - free minutes each day, one pass shared by all your apps;
+  - 2 free emergency unlocks a month (10 minutes each). They also work when your monthly limit is reached;
+  - free make-up unlocks (section 3).
+- You can remove apps, lower your price or stop blocking in Settings. If you turned on the settings lock, these changes wait 24 hours or need your partner’s code.
+- Switching off Screen Time access for HabitToll in the iPhone’s Settings, or deleting the app, always ends blocking.
+
+### 5. The settings lock
+
+If you turn on the settings lock, changes that make blocking easier wait 24 hours, or need the code of a person you chose. This is your own choice, for your own benefit. It never affects the free ways through in section 4.
+
+### 6. Friends
+
+If you use Friends, the people you invite (or whose invite you accept) see:
+
+- how many unlocks you paid for each day, and how much, unless you hide the amounts;
+- your streak, unless you hide it.
+
+They never see which apps. Friends can’t change your settings.
+
+Invite only people you know. Don’t try to guess invite codes, send floods of invites or misuse Friends in any other way. If someone does, we may remove their Friends profile.
+
+### 7. Fair use
+
+Don’t copy, resell, reverse-engineer or tamper with the app, its purchases or our servers, except where the law allows it.
+
+### 8. Availability and changes
+
+HabitToll depends on Apple’s Screen Time, which we don’t control. We work to keep the app reliable, but we can’t promise it will always work without errors or interruptions.
+
+We may improve and change the app. If a change affects an unlock you’ve paid for and not yet used, we’ll deliver it, or you can ask Apple for a refund.
+
+### 9. Liability
+
+We’re liable without limit:
+
+- for damage we cause intentionally or through gross negligence;
+- for injury to life, body or health;
+- wherever the law doesn’t allow a limit.
+
+For damage caused by slight negligence, we’re liable only if we breach a duty that’s essential to this agreement, and only for the typical damage that could be foreseen. Otherwise, as far as the law allows, we’re not liable.
+
+### 10. Ending
+
+You can stop at any time by deleting the app. Before you do, Settings → Your data lets you delete your data.
+
+### 11. Apple
+
+- Your licence to use the app is Apple’s standard [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). These terms add the rules for HabitToll’s features and purchases.
+- These terms are between you and us, not Apple. We, not Apple, are responsible for the app, its support and any claims about it.
+- Apple and its subsidiaries are third-party beneficiaries of these terms, and may enforce them against you.
+
+### 12. Android and Google Play
+
+On Android, these terms apply in the same way, with these differences:
+
+- **Blocking** uses two permissions you turn on during setup: usage access, to see which app is in front, and display over other apps, to show the block screen. HabitToll depends on them and on Android, which we don’t control, just as section 8 says for Apple’s Screen Time. Turning either permission off for HabitToll in Android’s Settings, or uninstalling the app, always ends blocking.
+- **You buy it from Google Play.** Every payment goes through Google Play’s purchase sheet, at the price Google Play shows there, under the [Google Play Terms of Service](https://play.google.com/about/play-terms/). Google charges you and handles the payment. What sections 3 and 8 say about Apple applies here to Google Play.
+- **An unlock counts only the time its app is in front.** The make-up rule in section 3 (“If iOS locks a paid unlock again too early”) is for iPhone only.
+- **Refunds** are decided by Google Play. You can ask in your [Google Play order history](https://play.google.com/store/account/orderhistory), or through Help → Refunds in the app. Your legal rights as a consumer are not affected.
+- **Section 11 is for iPhone only.** On Android, these terms are between you and us, not Google. We, not Google, are responsible for the app, its support and any claims about it.
+
+### 13. Changes to these terms
+
+We may update these terms, for example when the app or the law changes. We’ll tell you in the app before an important change takes effect. If you don’t agree, you can stop using the app.
+
+### 14. Law and disputes
+
+Estonian law applies. If you’re a consumer, you keep the protection of the mandatory laws of the country where you live, and you can bring a claim before its courts.
+
+### 15. Contact
+
+Comads OÜ\
+Ahtri tn 12, 15551 Tallinn, Estonia\
+Registry code: 17276947\
+Email: help@habittoll.com
+
+## Imprint (Impressum)
+
+https://habittoll.com/imprint/ · German: https://habittoll.com/de/impressum/ · Spanish: https://habittoll.com/es/aviso-legal/
+
+Legal notice under § 5 DDG (Germany) and the Estonian Information Society Services Act.
+
+### Provider
+
+Comads OÜ\
+Ahtri tn 12\
+15551 Tallinn\
+Estonia
+
+### Legal form
+
+Osaühing (OÜ), a private limited company under the laws of the Republic of Estonia.
+
+### Represented by
+
+Marvin Salimi, Member of the Management Board (sole director), authorised to represent the company alone.
+
+### Contact
+
+Email: help@habittoll.com\
+Phone: +49 15678394072
+
+### Register entry
+
+Estonian Business Register (e-Äriregister), kept by the Centre of Registers and Information Systems (RIK).\
+Registry code (registrikood): 17276947\
+Public entry: [ariregister.rik.ee](https://ariregister.rik.ee/eng/company/17276947/Comads-OU)
+
+### VAT
+
+Comads OÜ isn’t registered for value-added tax and has no VAT identification number (small-business status under Estonian law).
+
+### Consumer dispute resolution
+
+We are neither obliged nor willing to take part in dispute resolution proceedings before a consumer arbitration board.
