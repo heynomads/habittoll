@@ -66,7 +66,7 @@ Taxes and the store's share come off first. The rest goes to Comads OÜ, the sma
 Yes. HabitToll is on the App Store for iPhone (iOS 26.4 or later) and on Google Play for Android phones (Android 8 or later), in English, German and Spanish.
 
 ### How is it different from Screen Time?
-Screen Time counts minutes: it gives apps a daily allowance and a schedule, and a passcode protects the settings, but if you set the passcode yourself, you know it. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code.
+Screen Time counts minutes: it gives apps a daily allowance and a schedule, and a passcode protects the settings, but if you set the passcode yourself, you know it. HabitToll asks “worth it?” when you open an app you picked: walking away is one tap, and going in costs the price you set. If you want it to stick, the settings lock makes easier changes wait 24 hours or need your partner's code. More side by side: HabitToll vs Screen Time and the best app blockers of 2026.
 
 ### Can I turn it off?
 Yes, you're never locked in. Remove apps, lower your price or stop blocking in Settings, or delete the app. With the settings lock on, easier changes wait 24 hours or need your partner's code.
