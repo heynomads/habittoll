@@ -228,10 +228,23 @@ h2 {
 .colophon-fine { margin: 18px 0 0; font-size: .8125rem; color: var(--ink-muted); }
 .colophon-fine a { color: inherit; }
 
-/* ------------------------------------------------------------------ App Store */
+/* ------------------------------------------------------------------ App Store and Google Play */
 
+/* Both stores' own badges, side by side at the same height (both stores' guidelines). */
+.stores { --badge: 56px; display: flex; flex-wrap: wrap; align-items: center; gap: 14px 16px; }
+.center .stores { justify-content: center; }
+.get-stores { margin-top: 28px; }
 .store { display: inline-block; line-height: 0; border-radius: 13px; transition: transform .2s var(--settle); }
-.store svg { display: block; width: auto; height: 56px; }
+.store svg { display: block; width: auto; height: var(--badge); }
+/* Google's PNGs (250 px tall) keep transparent space around the badge, a different amount per language (--x, --y and
+   the badge's own height --h, from build.py): pulled in, so the badge itself is exactly as tall as Apple's, and the
+   gap between them is real space. */
+.store.play img {
+  display: block;
+  width: auto;
+  height: calc(var(--badge) * 250 / var(--h));
+  margin: calc(var(--badge) * var(--y) / var(--h) * -1) calc(var(--badge) * var(--x) / var(--h) * -1);
+}
 .store:hover { transform: translateY(-1px); }
 .requires {
   margin: 0;
@@ -748,7 +761,7 @@ h2 {
 }
 
 @media (max-width: 640px) {
-  .store svg { height: 52px; }
+  .stores { --badge: clamp(40px, calc((100vw - 2 * var(--margin) - 14px) / 6.4), 52px); column-gap: 14px; }
   .chapter-head { margin-bottom: 48px; }
   .qa { grid-template-columns: 1fr; gap: 10px; padding-block: 24px 26px; }
   .stamp-press { right: -2%; top: -4%; width: 132px; }
