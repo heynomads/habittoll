@@ -16,6 +16,8 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 ## Get the app
 - App Store (iPhone): https://apps.apple.com/app/id6816464637
 - Google Play (Android): https://play.google.com/store/apps/details?id=com.comads.toll
+- TikTok: https://www.tiktok.com/@habittoll
+- Instagram: https://www.instagram.com/habittoll
 
 ## Pages
 - [Home](https://habittoll.com/): what HabitToll is and how it works. German: https://habittoll.com/de/ · Spanish: https://habittoll.com/es/
