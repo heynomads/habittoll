@@ -21,6 +21,7 @@ HabitToll ("Put a price on your scroll.") is made by Comads OÜ, Tallinn, Estoni
 - [Home](https://habittoll.com/): what HabitToll is and how it works. German: https://habittoll.com/de/ · Spanish: https://habittoll.com/es/
 - [Help](https://habittoll.com/help/): emergencies, refunds, a new phone, what HabitToll can see.
 - [Where your money goes](https://habittoll.com/money/)
+- [Press kit](https://habittoll.com/press/): facts to quote, pictures to download (ZIP per language), press contact help@habittoll.com.
 - [Privacy policy](https://habittoll.com/privacy/)
 - [Terms of use](https://habittoll.com/terms/)
 - [Imprint](https://habittoll.com/imprint/)
