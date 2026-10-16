@@ -313,6 +313,8 @@ Open Settings → Screen Time → Manage Screen Time, and tap Turn On App & Webs
 
 Apps in a category work until that category’s allowance or the daily total runs out. If you only want the allowances to apply during certain hours, turn on Match Screen Time Schedule.
 
+App by app: [Instagram](https://habittoll.com/guides/block-instagram/), [TikTok](https://habittoll.com/guides/block-tiktok/) and [YouTube Shorts](https://habittoll.com/guides/limit-youtube-shorts/).
+
 ### 3. Set the hours for apps (Screen Time Schedule)
 
 1.  Open Settings → Screen Time → Screen Time Schedule, and turn on Schedule.
@@ -380,6 +382,8 @@ On Android, Digital Wellbeing does it: an app timer for a daily limit, Focus mod
 2.  Tap Set timer next to the app, choose the time per day, and tap OK.
 
 When the time is up, the app closes and its icon dims for the rest of the day. Timers reset at midnight. To use the app again before then, open the same screen and delete the timer.
+
+App by app: [Instagram](https://habittoll.com/guides/block-instagram/), [TikTok](https://habittoll.com/guides/block-tiktok/) and [YouTube Shorts](https://habittoll.com/guides/limit-youtube-shorts/).
 
 ### 2. Pause apps during set hours (Focus mode)
 
@@ -504,6 +508,8 @@ Most screen time comes from a handful of apps. Working on those few is easier to
 ### 4. Give each app a limit or a time
 
 A daily amount (Time Allowances on iPhone, App Limits on iOS 26, app timers on Android) caps the total. Set hours (a Screen Time Schedule on iPhone, Downtime on iOS 26, Focus mode on Android) keep apps closed when you want them closed. Step by step: [iPhone](https://habittoll.com/guides/block-apps-on-iphone/) · [Android](https://habittoll.com/guides/block-apps-on-android/).
+
+App by app: [Instagram](https://habittoll.com/guides/block-instagram/), [TikTok](https://habittoll.com/guides/block-tiktok/) and [YouTube Shorts](https://habittoll.com/guides/limit-youtube-shorts/).
 
 ### 5. Make the limit hard to wave away
 
