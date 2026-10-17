@@ -372,7 +372,7 @@ Apple renamed and rebuilt the tools: App Limits are now Time Allowances, set by 
 
 https://habittoll.com/guides/block-apps-on-android/ · German: https://habittoll.com/de/ratgeber/apps-sperren-android/ · Spanish: https://habittoll.com/es/guias/bloquear-apps-android/
 
-[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+[Guide](https://habittoll.com/guides/) · Updated 17 October 2026
 
 On Android, Digital Wellbeing does it: an app timer for a daily limit, Focus mode to pause apps during set hours, Bedtime mode for the night, and a PIN to protect your timers. A PIN you set yourself is one you know, so if you want a decision in front of each open instead, an app like HabitToll adds one.
 
@@ -403,6 +403,15 @@ Digital Wellbeing can lock app timers behind a PIN: open Settings → Digital We
 
 As with the iPhone’s Screen Time passcode, a PIN you choose yourself is one you know. Let someone else choose it, or use a waiting time instead.
 
+### On a Samsung Galaxy
+
+Samsung phones have Samsung’s own Digital Wellbeing, and some menus differ from the steps above:
+
+- **App timer:** Settings → Digital Wellbeing and parental controls → App timers → Apps and app categories. Pick the app, tap Add schedule, set the days and the time, and tap Save. On older versions, pick the app and tap Set timer. When the time is up, the app can’t be used for the rest of the day.
+- **Apps paused at set hours:** Focus mode has moved to Settings → Modes and Routines. Add a mode (Add mode → Custom), choose when it turns on, and under Stay focused, turn on Restrict app usage.
+- **At night:** Bedtime mode is now called Sleep, also under Modes and Routines.
+- **A PIN:** Samsung’s help describes a PIN for children’s accounts, not one for your own app timers.
+
 ### 5. When you keep switching it off
 
 HabitToll on Android puts a question instead of a timer in front of the apps you pick. It asks “worth it?”: walking away is free, and going in costs 10 minutes at a price you set, from €0.29. Its settings lock makes easier changes, like removing an app or lowering the price, wait 24 hours or need a partner’s code. You can also give a group of apps free minutes a day or free hours, like 20:00 to 21:00.
@@ -419,13 +428,13 @@ Which apps you block, and how long you use them, never leave your phone.
 
 #### Do app timers work on Samsung and other phones?
 
-Phones from other makers have Digital Wellbeing too, but the menus can look different. Google notes that the steps can vary by device.
+Yes. Samsung Galaxy phones have Samsung’s own Digital Wellbeing, with the menus described above under “On a Samsung Galaxy”. On phones from other makers, Google notes that the steps can vary by device.
 
 #### What happens at midnight?
 
 App timers reset, and apps that were closed by their timer open again.
 
-*Steps from Google’s Android and Pixel help for Digital Wellbeing, checked on 16 October 2026.*
+*Steps from Google’s Android and Pixel help for Digital Wellbeing, checked on 16 October 2026, and from Samsung’s support pages, checked on 17 October 2026.*
 
 ## How to stop doomscrolling, especially at night
 
@@ -677,7 +686,7 @@ Apple notes that, by default, a limit can be ignored once it’s reached. With a
 1.  Open Settings → Digital Wellbeing → App timers.
 2.  Tap Set timer next to Instagram, choose the time per day and tap OK.
 
-When the time is up, Instagram closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. More on Android: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/).
+When the time is up, Instagram closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. On a Samsung Galaxy the menus are named differently: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/) has both.
 
 ### 4. Instagram in the browser
 
@@ -759,7 +768,7 @@ Apple notes that, by default, a limit can be ignored once it’s reached. With a
 1.  Open Settings → Digital Wellbeing → App timers.
 2.  Tap Set timer next to TikTok, choose the time per day and tap OK.
 
-When the time is up, TikTok closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. More on Android: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/).
+When the time is up, TikTok closes and its icon dims for the rest of the day. Timers reset at midnight. So that the timer isn’t simply deleted, set a PIN: Settings → Digital Wellbeing → App limits → App limits PIN. On a Samsung Galaxy the menus are named differently: [how to block apps on Android](https://habittoll.com/guides/block-apps-on-android/) has both.
 
 ### 4. TikTok in the browser
 
@@ -830,7 +839,7 @@ In the app’s Settings, turn on Remind me to take a break, or Remind me when it
 - **iPhone, iOS 26:** Settings → Screen Time → App Limits → Add Limit. Tap a category, select YouTube, tap Next and set the time.
 - **Android:** Settings → Digital Wellbeing → App timers. Tap Set timer next to YouTube, choose the time and tap OK.
 
-These limit all of YouTube, long videos included: Apple and Google describe limits for apps, categories and websites, not for part of an app. A Screen Time passcode or an App limits PIN keeps the limit from being undone in a second: [how to block apps on iPhone](https://habittoll.com/guides/block-apps-on-iphone/), [on Android](https://habittoll.com/guides/block-apps-on-android/).
+These limit all of YouTube, long videos included: Apple and Google describe limits for apps, categories and websites, not for part of an app. A Screen Time passcode or an App limits PIN keeps the limit from being undone in a second: [how to block apps on iPhone](https://habittoll.com/guides/block-apps-on-iphone/), [on Android, Samsung included](https://habittoll.com/guides/block-apps-on-android/).
 
 ### 5. YouTube in the browser
 
