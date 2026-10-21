@@ -296,7 +296,7 @@ We usually answer within two working days.
 
 https://habittoll.com/guides/block-apps-on-iphone/ · German: https://habittoll.com/de/ratgeber/apps-sperren-iphone/ · Spanish: https://habittoll.com/es/guias/bloquear-apps-iphone/
 
-[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+[Guide](https://habittoll.com/guides/) · Updated 21 October 2026
 
 On iPhone, Screen Time does it. On iOS 27, Time Allowances give categories like Social Media a daily amount, and a Screen Time Schedule sets the hours when apps can be used; on iOS 26 the same tools are called App Limits and Downtime. A Screen Time passcode protects the settings. If you’d rather decide each time, an app like HabitToll asks first.
 
@@ -366,7 +366,15 @@ On iOS 26, yes: in App Limits → Add Limit, tap a category and pick the app ins
 
 Apple renamed and rebuilt the tools: App Limits are now Time Allowances, set by category, and Downtime is now part of the Screen Time Schedule, made of time windows. The passcode stayed: Lock Screen Time Settings.
 
-*Steps from Apple’s iPhone User Guide for iOS 27 and iOS 26, checked on 16 October 2026.*
+#### What does Block at Downtime do?
+
+It decides what Downtime does on iOS 26. With Block at Downtime on, apps outside Always Allowed can’t be opened during Downtime: they show dimmed with an hourglass. With it off, you see a reminder that it’s Downtime, but you can keep using the apps. You can choose it once a Screen Time passcode is set: Settings → Screen Time → Downtime → Block at Downtime. On iOS 27, Downtime is part of the Screen Time Schedule, and Apple’s guide shows no such switch there.
+
+#### How do I block apps on iPhone for a while, say until tomorrow?
+
+On iOS 26: Settings → Screen Time → Downtime → Turn On Downtime Until Tomorrow (App & Website Activity has to be on). With Block at Downtime on, apps outside Always Allowed then can’t be opened until tomorrow; without it, Downtime is a reminder and you can keep using the apps. On iOS 27, Apple’s guide shows no such switch for your own iPhone: a time window in the Screen Time Schedule sets the hours instead.
+
+*Steps from Apple’s iPhone User Guide for iOS 27 and iOS 26, checked on 16 October 2026 (the last two answers on 21 October 2026).*
 
 ## How to block apps on Android, for certain hours or for good
 
@@ -498,7 +506,7 @@ No. Steps 1 to 5 use only what’s already on your phone. An app helps when the
 
 https://habittoll.com/guides/reduce-screen-time/ · German: https://habittoll.com/de/ratgeber/bildschirmzeit-reduzieren/ · Spanish: https://habittoll.com/es/guias/reducir-tiempo-de-pantalla/
 
-[Guide](https://habittoll.com/guides/) · Updated 16 October 2026
+[Guide](https://habittoll.com/guides/) · Updated 21 October 2026
 
 Start with the two or three apps that take most of your time, not with all of them. Give them a limit or a pause, change what makes you open them, and check your numbers once a week.
 
@@ -553,6 +561,16 @@ There’s no single right number, and it depends on what the time is for. A usef
 #### Is it better to delete the apps?
 
 Deleting works for some people, but the app is one download away. A limit, a pause or a price keeps the app for when it’s worth it and adds a decision for the rest.
+
+#### Can I turn off the weekly Screen Time report?
+
+Apple’s iPhone guide shows no switch for the weekly report alone. It arrives as a notification you can tap to see your summary. On iOS 26, turning off App & Website Activity stops the reports, but it also turns off Downtime, App Limits and Always Allowed.
+
+#### How do I turn off Screen Time?
+
+On iOS 27: Settings → Screen Time → Manage Screen Time → Turn Off App & Website Activity. On iOS 26: Settings → Screen Time, scroll down and tap Turn Off App & Website Activity; Apple notes that this also turns off reporting, Downtime, App Limits and Always Allowed. If a Screen Time passcode is set, it must be entered before your Screen Time settings can change. If you’re turning it off because a hard block feels too strict, there’s a middle way: a pause with a price, like HabitToll’s.
+
+*iPhone steps from Apple’s iPhone User Guide for iOS 27 and iOS 26, checked on 21 October 2026.*
 
 ## An app blocker you can’t just switch off: your options
 
