@@ -272,7 +272,7 @@ As of 16 October 2026.
 - [![The home screen: 91 times you walked away this month](https://habittoll.com/assets/press/en/3-walk-away-480.jpg)](https://habittoll.com/assets/press/en/3-walk-away.jpg)
 - [![The streak: 12 days on your terms](https://habittoll.com/assets/press/en/6-days-480.jpg)](https://habittoll.com/assets/press/en/6-days.jpg)
 
-[Download the press kit (ZIP, 8.3 MB)](https://habittoll.com/assets/press/habittoll-press-kit-en.zip)
+[Download the press kit (ZIP, 8.1 MB)](https://habittoll.com/assets/press/habittoll-press-kit-en.zip)
 
 The app icon, the logo, all 16 store screenshots in English and these words as text. Also in [German](https://habittoll.com/assets/press/habittoll-press-kit-de.zip) and [Spanish](https://habittoll.com/assets/press/habittoll-press-kit-es.zip).
 
@@ -1371,7 +1371,7 @@ HabitToll: no device and no subscription. It asks “worth it?” before the app
 
 https://habittoll.com/privacy/ · German: https://habittoll.com/de/datenschutz/ · Spanish: https://habittoll.com/es/privacidad/
 
-*Last updated: 16 October 2026*
+*Last updated: 21 October 2026*
 
 HabitToll puts a price on the apps you want to open less. This policy explains what data the app uses, where it goes and what you can do about it.
 
@@ -1388,7 +1388,7 @@ HabitToll puts a price on the apps you want to open less. This policy explains w
 
 This policy covers HabitToll on iPhone and Android. From version 1.0.3 on iPhone and 1.0.2 on Android, Friends (section 6) works when you turn it on, and its server logs (section 8) apply. Purchase records and usage statistics (sections 4, 5 and 7) are still not sent to our servers: those server features are not enabled. We will tell you before a later version enables them.
 
-**What Android uses.** You enable usage access and permission to display over other apps during setup. While blocking is on and your screen is on, usage access lets HabitToll identify the app in front. Permission to display over other apps lets it show the pause screen over an app you chose to limit. The package names of the apps you select, such as `com.instagram.android`, stay on your phone. We do not receive your usage history or the identities of the apps you block. During setup, “Your last 7 days.” reads your daily usage for the preceding seven days and calculates an average on your phone. That calculation is not saved or sent. A persistent notification tells you when HabitToll is guarding your apps.
+**What Android uses.** You enable usage access and permission to display over other apps during setup. While blocking is on and your screen is on, usage access lets HabitToll identify the app in front. Permission to display over other apps lets it show the pause screen over an app you chose to limit. The package names of the apps you select, such as `com.instagram.android`, stay on your phone. We do not receive your usage history or the identities of the apps you block. During setup, “Your last 7 days.” reads your daily usage for the preceding seven days and calculates an average on your phone. That calculation is not saved or sent. From version 1.0.5 on Android, HabitToll also keeps, on your phone, how long you use each app you picked each day, and your average for the week before you started, for your statistics. It is never sent and is left out of device backups. A persistent notification tells you when HabitToll is guarding your apps.
 
 **Purchases and refunds.** On Android, a 10-minute pass is purchased through Google Play. Google handles payment and refunds under [Google’s privacy policy](https://policies.google.com/privacy). We do not receive your card details or Google Account details from the app. The app does not send Google Play its installation ID. The app stores its purchase records locally and sends none to our servers in this version. Refund requests go through [Google Play](https://support.google.com/googleplay/answer/2479637). The iPhone option “Confirm delivery to Apple” does not apply on Android. Google is responsible for the data it handles in Google Play and its backup service under its own policy.
 
